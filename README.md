@@ -1,25 +1,106 @@
-<h1>Hi 👋, I'm Shubhransh</h1>
-<h3>iOS Engineer | Swift & SwiftUI Expert | AI Research | Open Source Enthusiast | SDE 2 @ Lenskart</h3>
-## Welcome to my hub
- 
-- 👨‍💻 **#SelfTaught** Developer turned **Senior iOS Engineer**.
-- 📱 currently working as _iOS Engineer @ [Lenskart](https://lenskart.com)_.
-- 👨‍💻 Mostly working on ❤️iOS ❤️Swift ❤️SwiftUI 🔥AI/ML!
-- 🏗️ Passionate about **MVVM**, **VIPER**, **Dependency Injection** & **CI/CD**.
-- 🚀 Shipped features at **MakeMyTrip**, **Navi**, **Nuclei** & **Lenskart** — apps used by **millions**.
-- Loves ✈️ and 👨‍💻.
-- Proud 🇮🇳.
-- ![](https://komarev.com/ghpvc/?username=shubhransh-gupta) <!-- Profile View Counter-->
-_**LATEST UPDATE:**_ _Building [ShubhranshProxy](https://github.com/shubhransh-gupta/ShubhranshProxy) — a native macOS HTTP(S) debugging proxy with SSL decryption & HAR export_ 🥽.
-I'm an iOS Engineer with 5+ years of experience crafting high-impact mobile apps. I blend Swift mastery with scalable architecture to ship products millions rely on.
-I'm an open-source development enthusiast.
-## GitHub Analytics
-![Shubhransh's stats](https://awesome-github-stats.azurewebsites.net/user-stats/shubhransh-gupta?theme=dark&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
- 
+<div align="center">
+
+<!-- ═══════════════════════════════════════════════════════════════
+     CYBER HEADER — animated neon wave
+     ═══════════════════════════════════════════════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,25:7117EA,50:FF006E,75:FF6B00,100:00D4FF&height=220&section=header&text=SHUBHRANSH%20GUPTA&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=38&desc=iOS%20Engineer%20%C2%B7%20AI%20Research%20%C2%B7%20Swift%20Architect&descSize=18&descAlignY=58&descAlign=50"/>
+
+<!-- Typing terminal -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1200&color=00D4FF&center=true&vCenter=true&multiline=true&width=780&height=80&lines=Building+products+where+mobile+meets+intelligence...;Crafting+Swift+%26+SwiftUI+at+scale+%F0%9F%9A%80;Igniting+open+source+%F0%9F%94%A5)](https://git.io/typing-svg)
+
+<!-- Neon pulse line -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,18,24,30,24,18,12&height=3&section=footer&stroke=00000000"/>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=shubhransh-gupta&label=NEURAL+LINK+VIEWS&color=7117EA&style=for-the-badge" alt="Profile views"/>
+
+</div>
+
 ---
-## Connect with me 
-[![Mail](https://img.shields.io/badge/-Say%20Hi!-black?style=for-the-badge&logo=gmail)](mailto:gupta.subhransh@gmail.com)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=Linkedin&logoColor=blue)](https://www.linkedin.com/in/shubhransh-gupta/)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=google-chrome&logoColor=white)](https://shubhransh-gupta.github.io/shubhransh_cv/)
-[![Resume](https://img.shields.io/badge/-Resume-black?style=for-the-badge&logo=readthedocs&logoColor=white)](https://shubhransh-gupta.github.io/cv/assets/resume/Shubhransh-Gupta-Resume.pdf)
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github)](https://github.com/shubhransh-gupta)
+
+## ⚡ `SYSTEM.IDENTITY`
+
+```yaml
+name:        Shubhransh Gupta
+role:        Senior iOS Engineer @ Lenskart
+focus:       Swift · SwiftUI · AI/ML · MVVM · VIPER · CI/CD
+experience:  5+ years · MakeMyTrip · Navi · Nuclei · Lenskart
+status:      ONLINE — shipping features to millions
+origin:      🇮🇳 India
+```
+
+> *Self-taught developer turned iOS architect. I blend Swift mastery with scalable patterns to ship products millions rely on.*
+
+**Latest transmission:** Building [**ShubhranshProxy**](https://github.com/shubhransh-gupta/ShubhranshProxy) — a native macOS HTTP(S) debugging proxy with SSL decryption & HAR export 🥽
+
+---
+
+<div align="center">
+
+## 🔥 `COMMIT INFERNO` — Contribution Flame Trail
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=footer&stroke=00000000"/>
+
+<!-- Fire streak + core stats -->
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubhransh-gupta&theme=radical&hide_border=false&border=FF6B00&stroke=FF4500&ring=FF6B00&fire=FF4500&currStreakLabel=FFA500&sideLabels=FFAA00&dates=FF8C00&background=0A0A0F" alt="GitHub Streak — Fire Mode"/>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=shubhransh-gupta&show_icons=true&theme=radical&hide_border=false&border=7117EA&bg_color=0A0A0F&title_color=00D4FF&text_color=E0E0E0&icon_color=FF6B00&include_all_commits=true&count_private=true&custom_title=COMMIT%20MATRIX" alt="GitHub Stats"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhransh-gupta&layout=compact&theme=radical&hide_border=false&border=FF006E&bg_color=0A0A0F&title_color=00D4FF&text_color=E0E0E0&langs_count=8&custom_title=LANGUAGE%20SPECTRUM" alt="Top Languages"/>
+    </td>
+  </tr>
+</table>
+
+<!-- Full contribution heat graph — fire palette -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shubhransh-gupta&theme=react-dark&bg_color=0A0A0F&color=FF6B00&line=FF4500&point=FFA500&area=true&hide_border=false&border=FF6B00&radius=12&custom_title=CONTRIBUTION%20HEAT%20SIGNATURE&custom_title_color=FF6B00" alt="Contribution Activity Graph — Fire Theme"/>
+
+<!-- Trophies -->
+<img src="https://github-profile-trophy.vercel.app/?username=shubhransh-gupta&theme=radical&no-frame=false&no-bg=false&margin-w=4&column=7&title=Commits,Stars,Followers,Repositories&rank=-C" alt="GitHub Trophies"/>
+
+<!-- Animated contribution snake — generated by GitHub Action -->
+<img src="https://raw.githubusercontent.com/shubhransh-gupta/shubhransh-gupta/output/github-contribution-grid-snake.svg" alt="Contribution Snake — Fire Trail"/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=20,11,6&height=2&section=footer&stroke=00000000"/>
+
+</div>
+
+---
+
+## 🛸 `TECH.ARSENAL`
+
+<div align="center">
+
+| **Mobile** | **Architecture** | **Intelligence** | **DevOps** |
+|:---:|:---:|:---:|:---:|
+| Swift · SwiftUI · UIKit | MVVM · VIPER · DI | CoreML · AI/ML | Fastlane · CI/CD |
+| Combine · Async/Await | Clean Architecture | LLM Integration | XCTest · Snapshot |
+
+<img src="https://skillicons.dev/icons?i=swift,python,git,github,docker,linux,apple,vscode&theme=dark&perline=8" alt="Tech Stack Icons"/>
+
+</div>
+
+---
+
+## 📡 `ESTABLISH CONNECTION`
+
+<div align="center">
+
+[![Mail](https://img.shields.io/badge/SAY_HI-00D4FF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0A0A0F)](mailto:gupta.subhransh@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-FF006E?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A0A0F)](https://www.linkedin.com/in/shubhransh-gupta/)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-7117EA?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=0A0A0F)](https://shubhransh-gupta.github.io/shubhransh_cv/)
+[![Resume](https://img.shields.io/badge/RESUME-FF6B00?style=for-the-badge&logo=readthedocs&logoColor=white&labelColor=0A0A0F)](https://shubhransh-gupta.github.io/cv/assets/resume/Shubhransh-Gupta-Resume.pdf)
+[![GitHub](https://img.shields.io/badge/GITHUB-E0E0E0?style=for-the-badge&logo=github&logoColor=white&labelColor=0A0A0F)](https://github.com/shubhransh-gupta)
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,50:7117EA,100:FF6B00&height=100&section=footer&text=END%20TRANSMISSION&fontSize=28&fontColor=fff&animation=twinkling&fontAlignY=65"/>
+
+</div>
