@@ -4,6 +4,8 @@ on:
   schedule:
     - cron: "0 0 * * *"
   workflow_dispatch:
+  push:
+    branches: [main]
 
 permissions:
   contents: write
@@ -17,15 +19,16 @@ jobs:
       - uses: Platane/snake@v3
         with:
           github_user_name: shubhransh-gupta
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+          outputs: dist/github-contribution-grid-snake.svg
           snake_color: orange
 
-      - name: Push snake to output branch
-        uses: crazy-max/ghaction-github-pages@v4
+      - name: Copy snake to assets
+        run: |
+          mkdir -p assets
+          cp dist/github-contribution-grid-snake.svg assets/github-contribution-grid-snake.svg
+
+      - name: Commit snake SVG
+        uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          target: dist
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          commit_message: "chore: update contribution snake"
+          file_pattern: assets/github-contribution-grid-snake.svg
