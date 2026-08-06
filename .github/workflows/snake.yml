@@ -16,11 +16,10 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - uses: Platane/snake@v3
+      - uses: Platane/snk/svg-only@v3
         with:
           github_user_name: shubhransh-gupta
-          outputs: dist/github-contribution-grid-snake.svg
-          snake_color: orange
+          outputs: dist/github-contribution-grid-snake.svg?color_snake=orange
 
       - name: Copy snake to assets
         run: |
