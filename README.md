@@ -6,7 +6,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,25:7117EA,50:FF006E,75:FF6B00,100:00D4FF&height=220&section=header&text=SHUBHRANSH%20GUPTA&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=38&desc=iOS%20Engineer%20%C2%B7%20AI%20Research%20%C2%B7%20Swift%20Architect&descSize=18&descAlignY=58&descAlign=50"/>
 
 <!-- Typing terminal -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1200&color=00D4FF&center=true&vCenter=true&multiline=true&width=780&height=80&lines=Building+products+where+mobile+meets+intelligence...;Crafting+Swift+%26+SwiftUI+at+scale+%F0%9F%9A%80;Igniting+open+source+%F0%9F%94%A5)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1200&color=00D4FF&center=true&vCenter=true&multiline=true&width=780&height=105&lines=Building+products+where+mobile+meets+intelligence...;Crafting+Swift+%26+SwiftUI+at+scale+%F0%9F%9A%80;Igniting+open+source+%F0%9F%94%A5)](https://git.io/typing-svg)
 
 <!-- Neon pulse line -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,18,24,30,24,18,12&height=3&section=footer&stroke=00000000"/>
