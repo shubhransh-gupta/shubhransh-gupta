@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 80" role="img" aria-label="Minecraft mining animation">
+  <style>
+    @keyframes swing {
+      0%, 100% { transform: rotate(-35deg); transform-origin: 72px 42px; }
+      50% { transform: rotate(15deg); transform-origin: 72px 42px; }
+    }
+    @keyframes crack {
+      0%, 100% { opacity: 0; }
+      45%, 55% { opacity: 1; }
+    }
+    @keyframes sparkle {
+      0%, 100% { opacity: 0.2; }
+      50% { opacity: 1; }
+    }
+    .pickaxe { animation: swing 1.2s ease-in-out infinite; }
+    .crack { animation: crack 1.2s ease-in-out infinite; }
+    .spark { animation: sparkle 1.2s ease-in-out infinite; }
+  </style>
+  <rect width="320" height="80" fill="#121212"/>
+  <rect x="8" y="8" width="304" height="64" fill="#1B1B1B" stroke="#5D8C2E" stroke-width="4"/>
+  <!-- grass block -->
+  <rect x="180" y="28" width="32" height="32" fill="#8B6914"/>
+  <rect x="180" y="28" width="32" height="12" fill="#5D8C2E"/>
+  <rect x="180" y="28" width="8" height="8" fill="#7CB518"/>
+  <rect x="196" y="36" width="8" height="8" fill="#4E7C1B"/>
+  <!-- stone block -->
+  <rect x="220" y="28" width="32" height="32" fill="#7A7A7A"/>
+  <rect x="228" y="36" width="8" height="8" fill="#9A9A9A"/>
+  <rect x="244" y="44" width="8" height="8" fill="#666"/>
+  <!-- diamond ore -->
+  <rect x="260" y="28" width="32" height="32" fill="#555"/>
+  <polygon class="spark" points="272,40 276,48 268,48" fill="#55FFFF"/>
+  <polygon class="spark" points="284,36 288,44 280,44" fill="#4AEDD9"/>
+  <!-- pickaxe -->
+  <g class="pickaxe">
+    <rect x="56" y="38" width="34" height="6" fill="#8B4513"/>
+    <rect x="48" y="24" width="10" height="24" fill="#666"/>
+    <rect x="38" y="18" width="24" height="8" fill="#55FFFF"/>
+    <rect x="34" y="14" width="8" height="8" fill="#4AEDD9"/>
+  </g>
+  <!-- impact cracks -->
+  <text class="crack" x="214" y="52" fill="#FFD700" font-family="monospace" font-size="18">*</text>
+  <text class="spark" x="248" y="48" fill="#55FF55" font-family="monospace" font-size="14">+5 XP</text>
+  <text x="16" y="24" fill="#55FF55" font-family="monospace" font-size="12">MINING COMMITS...</text>
+  <rect x="16" y="58" width="120" height="8" fill="#2A2A2A"/>
+  <rect x="16" y="58" width="88" height="8" fill="#55FF55"/>
+</svg>

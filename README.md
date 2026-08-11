@@ -1,80 +1,78 @@
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════════════
-     CYBER HEADER — animated neon wave
-     ═══════════════════════════════════════════════════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,25:7117EA,50:FF006E,75:FF6B00,100:00D4FF&height=220&section=header&text=SHUBHRANSH%20GUPTA&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=38&desc=iOS%20Engineer%20%C2%B7%20AI%20Research%20%C2%B7%20Swift%20Architect&descSize=18&descAlignY=58&descAlign=50"/>
+<!-- ⛏ MINECRAFT CYBER HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:121212,20:5D8C2E,45:8B6914,70:55FFFF,100:AA00AA&height=220&section=header&text=SHUBHRANSH%20GUPTA&fontSize=48&fontColor=55FF55&animation=twinkling&fontAlignY=36&desc=iOS%20Engineer%20%C2%B7%20AI%20Research%20%C2%B7%20Swift%20Architect&descSize=16&descAlignY=56&descAlign=50"/>
 
-<!-- Typing terminal -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1200&color=00D4FF&center=true&vCenter=true&multiline=true&width=780&height=105&lines=Building+products+where+mobile+meets+intelligence...;Crafting+Swift+%26+SwiftUI+at+scale+%F0%9F%9A%80;Igniting+open+source+%F0%9F%94%A5)](https://git.io/typing-svg)
+<!-- Pixel mining animation -->
+<img src="https://raw.githubusercontent.com/shubhransh-gupta/shubhransh-gupta/main/assets/minecraft-mining.svg" width="420" height="80" alt="Mining commits animation"/>
 
-<!-- Neon pulse line -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,18,24,30,24,18,12&height=3&section=footer&stroke=00000000"/>
+<!-- Pixel terminal typing -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=400&size=14&duration=2800&pause=1400&color=55FF55&center=true&vCenter=true&multiline=true&width=820&height=120&lines=Crafting+code+block+by+block...;Mining+Swift+%26+SwiftUI+deposits+%E2%9B%8F%EF%B8%8F;Enchanting+open+source+projects+%E2%9C%A8)](https://git.io/typing-svg)
+
+<!-- Scrolling grass divider -->
+<img src="https://raw.githubusercontent.com/shubhransh-gupta/shubhransh-gupta/main/assets/grass-divider.svg" width="100%" height="16" alt="Grass block divider"/>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=shubhransh-gupta&label=NEURAL+LINK+VIEWS&color=7117EA&style=for-the-badge" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=shubhransh-gupta&label=WORLD+VISITS&color=5D8C2E&style=for-the-badge" alt="Profile views"/>
 
 </div>
 
 ---
 
-## ⚡ `SYSTEM.IDENTITY`
+## ⛏ `PLAYER.DATA`
 
 ```yaml
-name:        Shubhransh Gupta
-role:        Senior iOS Engineer @ Lenskart
-focus:       Swift · SwiftUI · AI/ML · MVVM · VIPER · CI/CD
-experience:  5+ years · MakeMyTrip · Navi · Nuclei · Lenskart
-status:      ONLINE — shipping features to millions
-origin:      🇮🇳 India
+player:      Shubhransh Gupta
+class:       iOS Engineer (Legendary)
+guild:       Lenskart
+skills:      Swift · SwiftUI · AI/ML · MVVM · VIPER · CI/CD
+level:       5+ years XP · MakeMyTrip · Navi · Nuclei · Lenskart
+status:      ONLINE — shipping to millions of players
+spawn:       🇮🇳 India
 ```
 
-> *Self-taught developer turned iOS architect. I blend Swift mastery with scalable patterns to ship products millions rely on.*
+> *Self-taught builder turned iOS architect. I craft scalable blueprints and ship apps millions rely on — one block at a time.*
 
-**Latest transmission:** Building [**ShubhranshProxy**](https://github.com/shubhransh-gupta/ShubhranshProxy) — a native macOS HTTP(S) debugging proxy with SSL decryption & HAR export 🥽
+**Latest quest:** Building [**ShubhranshProxy**](https://github.com/shubhransh-gupta/ShubhranshProxy) — a native macOS HTTP(S) debugging proxy with SSL decryption & HAR export 🥽
 
 ---
 
 <div align="center">
 
-## 🔥 `COMMIT INFERNO` — Contribution Flame Trail
+## 🔴 `REDSTONE.COMMITS` — Contribution Block Chain
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=footer&stroke=00000000"/>
+<img src="https://raw.githubusercontent.com/shubhransh-gupta/shubhransh-gupta/main/assets/grass-divider.svg" width="100%" height="16" alt="Grass block divider"/>
 
-<!-- Fire streak + core stats -->
 <table>
   <tr>
     <td align="center" width="50%">
-      <img src="https://streak-stats.demolab.com/?user=shubhransh-gupta&theme=radical&hide_border=false&border=FF6B00&stroke=FF4500&ring=FF6B00&fire=FF4500&currStreakLabel=FFA500&sideLabels=FFAA00&dates=FF8C00&background=0A0A0F" alt="GitHub Streak — Fire Mode"/>
+      <img src="https://streak-stats.demolab.com/?user=shubhransh-gupta&theme=dark&hide_border=false&border=5D8C2E&stroke=55FF55&ring=55FFFF&fire=AA0000&currStreakLabel=FFD700&sideLabels=55FF55&dates=7CB518&background=1B1B1B" alt="GitHub Streak — Redstone Mode"/>
     </td>
     <td align="center" width="50%">
-      <img src="https://github-stats-extended.vercel.app/api?username=shubhransh-gupta&show_icons=true&theme=radical&hide_border=false&border=7117EA&bg_color=0A0A0F&title_color=00D4FF&text_color=E0E0E0&icon_color=FF6B00&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+      <img src="https://github-stats-extended.vercel.app/api?username=shubhransh-gupta&show_icons=true&theme=dark&hide_border=false&border=5D8C2E&bg_color=1B1B1B&title_color=55FF55&text_color=E0E0E0&icon_color=55FFFF&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
     </td>
   </tr>
   <tr>
     <td align="center" colspan="2">
-      <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=shubhransh-gupta&layout=compact&theme=radical&hide_border=false&border=FF006E&bg_color=0A0A0F&title_color=00D4FF&text_color=E0E0E0&langs_count=8" alt="Top Languages"/>
+      <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=shubhransh-gupta&layout=compact&theme=dark&hide_border=false&border=55FFFF&bg_color=1B1B1B&title_color=55FF55&text_color=E0E0E0&langs_count=8" alt="Top Languages"/>
     </td>
   </tr>
 </table>
 
-<!-- Full contribution heat graph — fire palette -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shubhransh-gupta&theme=react-dark&bg_color=0A0A0F&color=FF6B00&line=FF4500&point=FFA500&area=true&hide_border=false&border=FF6B00&radius=12&custom_title=CONTRIBUTION%20HEAT%20SIGNATURE&custom_title_color=FF6B00" alt="Contribution Activity Graph — Fire Theme"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shubhransh-gupta&theme=react-dark&bg_color=1B1B1B&color=55FF55&line=5D8C2E&point=FFD700&area=true&hide_border=false&border=5D8C2E&radius=8&custom_title=BLOCK%20PLACEMENT%20LOG&custom_title_color=55FF55" alt="Contribution Activity Graph — Grass Block Theme"/>
 
-<!-- Trophies -->
-<img src="https://github-profile-trophy-gamma.vercel.app/?username=shubhransh-gupta&theme=radical&no-frame=false&no-bg=false&margin-w=4&column=7&title=Commits,Stars,Followers,Repositories&rank=-C" alt="GitHub Trophies"/>
+<img src="https://github-profile-trophy-gamma.vercel.app/?username=shubhransh-gupta&theme=onedark&no-frame=false&no-bg=false&margin-w=4&column=7&title=Commits,Stars,Followers,Repositories&rank=-C" alt="GitHub Trophies"/>
 
-<!-- Animated contribution snake — generated by GitHub Action -->
-<img src="https://raw.githubusercontent.com/shubhransh-gupta/shubhransh-gupta/main/assets/github-contribution-grid-snake.svg" alt="Contribution Snake — Fire Trail"/>
+<img src="https://raw.githubusercontent.com/shubhransh-gupta/shubhransh-gupta/main/assets/github-contribution-grid-snake.svg" alt="Contribution Snake — Creeper Trail"/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=20,11,6&height=2&section=footer&stroke=00000000"/>
+<img src="https://raw.githubusercontent.com/shubhransh-gupta/shubhransh-gupta/main/assets/grass-divider.svg" width="100%" height="16" alt="Grass block divider"/>
 
 </div>
 
 ---
 
-## 🛸 `TECH.ARSENAL`
+## 🧰 `CRAFTING.TABLE`
 
 <div align="center">
 
@@ -89,18 +87,18 @@ origin:      🇮🇳 India
 
 ---
 
-## 📡 `ESTABLISH CONNECTION`
+## 🌐 `MULTIPLAYER.HUB`
 
 <div align="center">
 
-[![Mail](https://img.shields.io/badge/SAY_HI-00D4FF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0A0A0F)](mailto:gupta.subhransh@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-FF006E?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A0A0F)](https://www.linkedin.com/in/shubhransh-gupta/)
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-7117EA?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=0A0A0F)](https://shubhransh-gupta.github.io/shubhransh_cv/)
-[![Resume](https://img.shields.io/badge/RESUME-FF6B00?style=for-the-badge&logo=readthedocs&logoColor=white&labelColor=0A0A0F)](https://shubhransh-gupta.github.io/cv/assets/resume/Shubhransh-Gupta-Resume.pdf)
-[![GitHub](https://img.shields.io/badge/GITHUB-E0E0E0?style=for-the-badge&logo=github&logoColor=white&labelColor=0A0A0F)](https://github.com/shubhransh-gupta)
+[![Mail](https://img.shields.io/badge/SEND_MAIL-55FF55?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1B1B1B)](mailto:gupta.subhransh@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-55FFFF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1B1B1B)](https://www.linkedin.com/in/shubhransh-gupta/)
+[![Portfolio](https://img.shields.io/badge/PORTAL-5D8C2E?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=1B1B1B)](https://shubhransh-gupta.github.io/shubhransh_cv/)
+[![Resume](https://img.shields.io/badge/SCROLL-FFD700?style=for-the-badge&logo=readthedocs&logoColor=black&labelColor=1B1B1B)](https://shubhransh-gupta.github.io/cv/assets/resume/Shubhransh-Gupta-Resume.pdf)
+[![GitHub](https://img.shields.io/badge/GITHUB-AA00AA?style=for-the-badge&logo=github&logoColor=white&labelColor=1B1B1B)](https://github.com/shubhransh-gupta)
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,50:7117EA,100:FF6B00&height=100&section=footer&text=END%20TRANSMISSION&fontSize=28&fontColor=fff&animation=twinkling&fontAlignY=65"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:121212,40:5D8C2E,100:55FFFF&height=100&section=footer&text=GAME%20SAVED&fontSize=26&fontColor=55FF55&animation=twinkling&fontAlignY=65"/>
 
 </div>
