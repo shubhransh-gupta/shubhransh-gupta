@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ⛏ MINECRAFT CYBER HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:121212,20:5D8C2E,45:8B6914,70:55FFFF,100:AA00AA&height=220&section=header&text=SHUBHRANSH%20GUPTA&fontSize=48&fontColor=55FF55&animation=twinkling&fontAlignY=36&desc=iOS%20Engineer%20%C2%B7%20AI%20Research%20%C2%B7%20Swift%20Architect&descSize=16&descAlignY=56&descAlign=50"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:121212,20:5D8C2E,45:8B6914,70:55FFFF,100:AA00AA&height=220&section=header&text=SHUBHRANSH%20GUPTA&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=36&desc=iOS%20Engineer%20%C2%B7%20AI%20Research%20%C2%B7%20Swift%20Architect&descSize=16&descAlignY=56&descAlign=50&descColor=fff"/>
 
 <!-- Pixel mining animation -->
 <img src="https://raw.githubusercontent.com/shubhransh-gupta/shubhransh-gupta/main/assets/minecraft-mining.svg" width="420" height="80" alt="Mining commits animation"/>
