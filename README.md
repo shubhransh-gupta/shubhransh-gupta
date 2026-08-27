@@ -78,13 +78,22 @@ spawn:         🇮🇳 India
 <table>
   <tr>
     <td align="center" width="50%">
-      <img src="https://github-stats-extended.vercel.app/api?username=shubhransh-gupta&show_icons=true&theme=dark&hide_border=false&border=5D8C2E&bg_color=1B1B1B&title_color=55FF55&text_color=E0E0E0&icon_color=55FFFF&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubhransh-gupta&theme=dark&hide_border=false&border=5D8C2E&stroke=55FF55&ring=55FFFF&fire=AA0000&currStreakLabel=FFD700&sideLabels=55FF55&dates=7CB518&background=1B1B1B" alt="GitHub Streak — Redstone Mode"/>
     </td>
     <td align="center" width="50%">
+      <img src="https://github-stats-extended.vercel.app/api?username=shubhransh-gupta&show_icons=true&theme=dark&hide_border=false&border=5D8C2E&bg_color=1B1B1B&title_color=55FF55&text_color=E0E0E0&icon_color=55FFFF&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
       <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=shubhransh-gupta&layout=compact&theme=dark&hide_border=false&border=55FFFF&bg_color=1B1B1B&title_color=55FF55&text_color=E0E0E0&langs_count=8" alt="Top Languages"/>
     </td>
   </tr>
 </table>
+
+<img src="https://raw.githubusercontent.com/shubhransh-gupta/shubhransh-gupta/main/assets/activity-graph.svg" width="100%" alt="Contribution Activity Graph"/>
+
+<br/><br/>
 
 <img src="https://github-profile-trophy-gamma.vercel.app/?username=shubhransh-gupta&theme=onedark&no-frame=false&no-bg=false&margin-w=4&column=7&title=Commits,Stars,Followers,Repositories&rank=-C" alt="GitHub Trophies"/>
 

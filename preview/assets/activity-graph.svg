@@ -1,0 +1,107 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 370" width="840" height="370">
+  <defs>
+    <linearGradient id="area-grad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#55FF55" stop-opacity="0.35"/>
+      <stop offset="60%" stop-color="#5D8C2E" stop-opacity="0.12"/>
+      <stop offset="100%" stop-color="#1B1B1B" stop-opacity="0.0"/>
+    </linearGradient>
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="2.5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- Background Card -->
+  <rect width="840" height="370" rx="8" fill="#1B1B1B" stroke="#5D8C2E" stroke-width="2"/>
+
+  <!-- Title & Minecraft Header -->
+  <g transform="translate(420, 38)" text-anchor="middle">
+    <text fill="#55FF55" font-family="Segoe UI, Ubuntu, sans-serif" font-size="18" font-weight="bold" letter-spacing="2px">BLOCK PLACEMENT LOG</text>
+  </g>
+
+  <!-- Stats Subtitle Chips -->
+  <g transform="translate(0, 0)">
+    <!-- Total Contributions -->
+    <text x="65" y="65" fill="#55FFFF" font-family="Segoe UI, Ubuntu, sans-serif" font-size="12" font-weight="600">Total in 31 Days: <tspan fill="#FFD700">212</tspan></text>
+    <!-- Current Streak -->
+    <text x="420" y="65" fill="#55FFFF" font-family="Segoe UI, Ubuntu, sans-serif" font-size="12" font-weight="600" text-anchor="middle">Current Streak: <tspan fill="#FFD700">23 Days</tspan> 🔥</text>
+    <!-- Max Peak -->
+    <text x="785" y="65" fill="#55FFFF" font-family="Segoe UI, Ubuntu, sans-serif" font-size="12" font-weight="600" text-anchor="end">Daily Peak: <tspan fill="#FFD700">15 Blocks</tspan></text>
+  </g>
+
+  <!-- Y-Grid & Labels -->
+  <line x1="55" y1="280.0" x2="785" y2="280.0" stroke="#5D8C2E" stroke-opacity="0.25" stroke-dasharray="3,3"/>
+<text x="43" y="284.0" fill="#7CB518" font-family="Segoe UI, Ubuntu, sans-serif" font-size="11" font-weight="600" text-anchor="end">0</text>
+<line x1="55" y1="230.0" x2="785" y2="230.0" stroke="#5D8C2E" stroke-opacity="0.25" stroke-dasharray="3,3"/>
+<text x="43" y="234.0" fill="#7CB518" font-family="Segoe UI, Ubuntu, sans-serif" font-size="11" font-weight="600" text-anchor="end">4</text>
+<line x1="55" y1="180.0" x2="785" y2="180.0" stroke="#5D8C2E" stroke-opacity="0.25" stroke-dasharray="3,3"/>
+<text x="43" y="184.0" fill="#7CB518" font-family="Segoe UI, Ubuntu, sans-serif" font-size="11" font-weight="600" text-anchor="end">8</text>
+<line x1="55" y1="130.0" x2="785" y2="130.0" stroke="#5D8C2E" stroke-opacity="0.25" stroke-dasharray="3,3"/>
+<text x="43" y="134.0" fill="#7CB518" font-family="Segoe UI, Ubuntu, sans-serif" font-size="11" font-weight="600" text-anchor="end">12</text>
+<line x1="55" y1="80.0" x2="785" y2="80.0" stroke="#5D8C2E" stroke-opacity="0.25" stroke-dasharray="3,3"/>
+<text x="43" y="84.0" fill="#7CB518" font-family="Segoe UI, Ubuntu, sans-serif" font-size="11" font-weight="600" text-anchor="end">16</text>
+
+
+  <!-- X-Grid & Labels -->
+  <text x="55.0" y="302" fill="#7CB518" font-family="Segoe UI, Ubuntu, sans-serif" font-size="11" font-weight="600" text-anchor="middle">Jul 28</text>
+<line x1="55.0" y1="280" x2="55.0" y2="285" stroke="#5D8C2E" stroke-width="1.5"/>
+<text x="201.0" y="302" fill="#7CB518" font-family="Segoe UI, Ubuntu, sans-serif" font-size="11" font-weight="600" text-anchor="middle">Aug 03</text>
+<line x1="201.0" y1="280" x2="201.0" y2="285" stroke="#5D8C2E" stroke-width="1.5"/>
+<text x="347.0" y="302" fill="#7CB518" font-family="Segoe UI, Ubuntu, sans-serif" font-size="11" font-weight="600" text-anchor="middle">Aug 09</text>
+<line x1="347.0" y1="280" x2="347.0" y2="285" stroke="#5D8C2E" stroke-width="1.5"/>
+<text x="493.0" y="302" fill="#7CB518" font-family="Segoe UI, Ubuntu, sans-serif" font-size="11" font-weight="600" text-anchor="middle">Aug 15</text>
+<line x1="493.0" y1="280" x2="493.0" y2="285" stroke="#5D8C2E" stroke-width="1.5"/>
+<text x="639.0" y="302" fill="#7CB518" font-family="Segoe UI, Ubuntu, sans-serif" font-size="11" font-weight="600" text-anchor="middle">Aug 21</text>
+<line x1="639.0" y1="280" x2="639.0" y2="285" stroke="#5D8C2E" stroke-width="1.5"/>
+<text x="785.0" y="302" fill="#7CB518" font-family="Segoe UI, Ubuntu, sans-serif" font-size="11" font-weight="600" text-anchor="middle">Aug 27</text>
+<line x1="785.0" y1="280" x2="785.0" y2="285" stroke="#5D8C2E" stroke-width="1.5"/>
+
+
+  <!-- Area Fill -->
+  <path d="M 55.0 280.0 C 67.2 280.0, 67.2 255.0, 79.3 255.0 C 91.5 255.0, 91.5 280.0, 103.7 280.0 C 115.8 280.0, 115.8 267.5, 128.0 267.5 C 140.2 267.5, 140.2 242.5, 152.3 242.5 C 164.5 242.5, 164.5 280.0, 176.7 280.0 C 188.8 280.0, 188.8 267.5, 201.0 267.5 C 213.2 267.5, 213.2 280.0, 225.3 280.0 C 237.5 280.0, 237.5 230.0, 249.7 230.0 C 261.8 230.0, 261.8 205.0, 274.0 205.0 C 286.2 205.0, 286.2 180.0, 298.3 180.0 C 310.5 180.0, 310.5 217.5, 322.7 217.5 C 334.8 217.5, 334.8 192.5, 347.0 192.5 C 359.2 192.5, 359.2 130.0, 371.3 130.0 C 383.5 130.0, 383.5 167.5, 395.7 167.5 C 407.8 167.5, 407.8 205.0, 420.0 205.0 C 432.2 205.0, 432.2 180.0, 444.3 180.0 C 456.5 180.0, 456.5 105.0, 468.7 105.0 C 480.8 105.0, 480.8 142.5, 493.0 142.5 C 505.2 142.5, 505.2 192.5, 517.3 192.5 C 529.5 192.5, 529.5 167.5, 541.7 167.5 C 553.8 167.5, 553.8 92.5, 566.0 92.5 C 578.2 92.5, 578.2 180.0, 590.3 180.0 C 602.5 180.0, 602.5 155.0, 614.7 155.0 C 626.8 155.0, 626.8 130.0, 639.0 130.0 C 651.2 130.0, 651.2 205.0, 663.3 205.0 C 675.5 205.0, 675.5 167.5, 687.7 167.5 C 699.8 167.5, 699.8 142.5, 712.0 142.5 C 724.2 142.5, 724.2 192.5, 736.3 192.5 C 748.5 192.5, 748.5 117.5, 760.7 117.5 C 772.8 117.5, 772.8 180.0, 785.0 180.0 L 785.0 280.0 L 55.0 280.0 Z" fill="url(#area-grad)"/>
+
+  <!-- Activity Curve Line -->
+  <path d="M 55.0 280.0 C 67.2 280.0, 67.2 255.0, 79.3 255.0 C 91.5 255.0, 91.5 280.0, 103.7 280.0 C 115.8 280.0, 115.8 267.5, 128.0 267.5 C 140.2 267.5, 140.2 242.5, 152.3 242.5 C 164.5 242.5, 164.5 280.0, 176.7 280.0 C 188.8 280.0, 188.8 267.5, 201.0 267.5 C 213.2 267.5, 213.2 280.0, 225.3 280.0 C 237.5 280.0, 237.5 230.0, 249.7 230.0 C 261.8 230.0, 261.8 205.0, 274.0 205.0 C 286.2 205.0, 286.2 180.0, 298.3 180.0 C 310.5 180.0, 310.5 217.5, 322.7 217.5 C 334.8 217.5, 334.8 192.5, 347.0 192.5 C 359.2 192.5, 359.2 130.0, 371.3 130.0 C 383.5 130.0, 383.5 167.5, 395.7 167.5 C 407.8 167.5, 407.8 205.0, 420.0 205.0 C 432.2 205.0, 432.2 180.0, 444.3 180.0 C 456.5 180.0, 456.5 105.0, 468.7 105.0 C 480.8 105.0, 480.8 142.5, 493.0 142.5 C 505.2 142.5, 505.2 192.5, 517.3 192.5 C 529.5 192.5, 529.5 167.5, 541.7 167.5 C 553.8 167.5, 553.8 92.5, 566.0 92.5 C 578.2 92.5, 578.2 180.0, 590.3 180.0 C 602.5 180.0, 602.5 155.0, 614.7 155.0 C 626.8 155.0, 626.8 130.0, 639.0 130.0 C 651.2 130.0, 651.2 205.0, 663.3 205.0 C 675.5 205.0, 675.5 167.5, 687.7 167.5 C 699.8 167.5, 699.8 142.5, 712.0 142.5 C 724.2 142.5, 724.2 192.5, 736.3 192.5 C 748.5 192.5, 748.5 117.5, 760.7 117.5 C 772.8 117.5, 772.8 180.0, 785.0 180.0" fill="none" stroke="#55FF55" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" filter="url(#glow)"/>
+
+  <!-- Data Points -->
+  <circle cx="79.3" cy="255.0" r="3.5" fill="#FFD700" stroke="#1B1B1B" stroke-width="1.5"/>
+<circle cx="128.0" cy="267.5" r="3.5" fill="#FFD700" stroke="#1B1B1B" stroke-width="1.5"/>
+<circle cx="152.3" cy="242.5" r="3.5" fill="#FFD700" stroke="#1B1B1B" stroke-width="1.5"/>
+<circle cx="201.0" cy="267.5" r="3.5" fill="#FFD700" stroke="#1B1B1B" stroke-width="1.5"/>
+<circle cx="249.7" cy="230.0" r="3.5" fill="#FFD700" stroke="#1B1B1B" stroke-width="1.5"/>
+<circle cx="274.0" cy="205.0" r="3.5" fill="#FFD700" stroke="#1B1B1B" stroke-width="1.5"/>
+<circle cx="298.3" cy="180.0" r="3.5" fill="#FFD700" stroke="#1B1B1B" stroke-width="1.5"/>
+<circle cx="322.7" cy="217.5" r="3.5" fill="#FFD700" stroke="#1B1B1B" stroke-width="1.5"/>
+<circle cx="347.0" cy="192.5" r="3.5" fill="#FFD700" stroke="#1B1B1B" stroke-width="1.5"/>
+<circle cx="371.3" cy="130.0" r="3.5" fill="#FFD700" stroke="#1B1B1B" stroke-width="1.5"/>
+<circle cx="395.7" cy="167.5" r="3.5" fill="#FFD700" stroke="#1B1B1B" stroke-width="1.5"/>
+<circle cx="420.0" cy="205.0" r="3.5" fill="#FFD700" stroke="#1B1B1B" stroke-width="1.5"/>
+<circle cx="444.3" cy="180.0" r="3.5" fill="#FFD700" stroke="#1B1B1B" stroke-width="1.5"/>
+<circle cx="468.7" cy="105.0" r="3.5" fill="#FFD700" stroke="#1B1B1B" stroke-width="1.5"/>
+<circle cx="493.0" cy="142.5" r="3.5" fill="#FFD700" stroke="#1B1B1B" stroke-width="1.5"/>
+<circle cx="517.3" cy="192.5" r="3.5" fill="#FFD700" stroke="#1B1B1B" stroke-width="1.5"/>
+<circle cx="541.7" cy="167.5" r="3.5" fill="#FFD700" stroke="#1B1B1B" stroke-width="1.5"/>
+<circle cx="566.0" cy="92.5" r="3.5" fill="#FFD700" stroke="#1B1B1B" stroke-width="1.5"/>
+<circle cx="590.3" cy="180.0" r="3.5" fill="#FFD700" stroke="#1B1B1B" stroke-width="1.5"/>
+<circle cx="614.7" cy="155.0" r="3.5" fill="#FFD700" stroke="#1B1B1B" stroke-width="1.5"/>
+<circle cx="639.0" cy="130.0" r="3.5" fill="#FFD700" stroke="#1B1B1B" stroke-width="1.5"/>
+<circle cx="663.3" cy="205.0" r="3.5" fill="#FFD700" stroke="#1B1B1B" stroke-width="1.5"/>
+<circle cx="687.7" cy="167.5" r="3.5" fill="#FFD700" stroke="#1B1B1B" stroke-width="1.5"/>
+<circle cx="712.0" cy="142.5" r="3.5" fill="#FFD700" stroke="#1B1B1B" stroke-width="1.5"/>
+<circle cx="736.3" cy="192.5" r="3.5" fill="#FFD700" stroke="#1B1B1B" stroke-width="1.5"/>
+<circle cx="760.7" cy="117.5" r="3.5" fill="#FFD700" stroke="#1B1B1B" stroke-width="1.5"/>
+<circle cx="785.0" cy="180.0" r="3.5" fill="#FFD700" stroke="#1B1B1B" stroke-width="1.5"/>
+
+
+  <!-- Footer Legend -->
+  <g transform="translate(420, 345)" text-anchor="middle">
+    <circle cx="-130" cy="-4" r="4" fill="#FFD700"/>
+    <text x="-118" y="0" fill="#E0E0E0" font-family="Segoe UI, Ubuntu, sans-serif" font-size="11" text-anchor="start">Contributions</text>
+    
+    <line x1="20" y1="-4" x2="45" y2="-4" stroke="#55FF55" stroke-width="2"/>
+    <text x="55" y="0" fill="#E0E0E0" font-family="Segoe UI, Ubuntu, sans-serif" font-size="11" text-anchor="start">Activity Velocity</text>
+  </g>
+</svg>

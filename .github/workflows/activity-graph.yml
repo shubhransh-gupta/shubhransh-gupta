@@ -1,0 +1,36 @@
+name: Generate Activity Graph
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate Activity Graph
+        uses: maurodesouza/github-readme-activity-graph-action@v1
+        with:
+          username: shubhransh-gupta
+          options: theme=react-dark&bg_color=1B1B1B&color=55FF55&line=5D8C2E&point=FFD700&area=true&hide_border=false&border=5D8C2E&radius=8&custom_title=BLOCK%20PLACEMENT%20LOG&custom_title_color=55FF55
+          output_path: dist/activity-graph.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Copy activity graph to assets
+        run: |
+          mkdir -p assets
+          if [ -f dist/activity-graph.svg ]; then
+            cp dist/activity-graph.svg assets/activity-graph.svg
+          fi
+
+      - name: Commit activity graph SVG
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: update activity graph"
+          file_pattern: assets/activity-graph.svg
