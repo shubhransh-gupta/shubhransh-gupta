@@ -1,13 +1,13 @@
 <div align="center">
 
 <!-- ⛏ MINECRAFT CYBER HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:121212,20:5D8C2E,45:8B6914,70:55FFFF,100:AA00AA&height=220&section=header&text=SHUBHRANSH%20GUPTA&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=36&desc=iOS%20Architect%20%C2%B7%20On-Device%20AI%20%26%20LLM%20Optimization%20Engineer&descSize=16&descAlignY=56&descAlign=50&descColor=fff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:121212,20:5D8C2E,45:8B6914,70:55FFFF,100:AA00AA&height=220&section=header&text=SHUBHRANSH%20GUPTA&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=38&desc=iOS%20Architect%20-%20On-Device%20AI%20and%20LLM%20Optimization%20Engineer&descSize=16&descAlignY=58&descAlign=50&descColor=fff"/>
 
 <!-- Pixel mining animation -->
 <img src="https://raw.githubusercontent.com/shubhransh-gupta/shubhransh-gupta/main/assets/minecraft-mining.svg" width="420" height="80" alt="Mining commits animation"/>
 
 <!-- Pixel terminal typing -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=400&size=13&duration=2800&pause=1400&color=55FF55&center=true&vCenter=true&multiline=true&width=860&height=120&lines=Architecting+scalable+iOS+blueprints...;Optimizing+on-device+LLMs+%26+Apple+Silicon+kernels+%E2%9A%A1;Crafting+CoreML+%C2%B7+MLX-Swift+%C2%B7+Metal+pipelines+%F0%9F%A7%A0;Contributing+to+open-source+ecosystems+%E2%9C%A8)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=400&size=13&duration=2800&pause=1400&color=55FF55&center=true&vCenter=true&multiline=true&width=860&height=120&lines=Architecting+scalable+iOS+blueprints...;Optimizing+on-device+LLMs+and+Apple+Silicon+kernels;Crafting+CoreML+and+MLX-Swift+pipelines;Contributing+to+open-source+ecosystems)](https://git.io/typing-svg)
 
 <!-- Scrolling grass divider -->
 <img src="https://raw.githubusercontent.com/shubhransh-gupta/shubhransh-gupta/main/assets/grass-divider.svg" width="100%" height="16" alt="Grass block divider"/>
@@ -78,24 +78,21 @@ spawn:         🇮🇳 India
 <table>
   <tr>
     <td align="center" width="50%">
-      <img src="https://streak-stats.demolab.com/?user=shubhransh-gupta&theme=dark&hide_border=false&border=5D8C2E&stroke=55FF55&ring=55FFFF&fire=AA0000&currStreakLabel=FFD700&sideLabels=55FF55&dates=7CB518&background=1B1B1B" alt="GitHub Streak — Redstone Mode"/>
-    </td>
-    <td align="center" width="50%">
       <img src="https://github-stats-extended.vercel.app/api?username=shubhransh-gupta&show_icons=true&theme=dark&hide_border=false&border=5D8C2E&bg_color=1B1B1B&title_color=55FF55&text_color=E0E0E0&icon_color=55FFFF&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
     </td>
-  </tr>
-  <tr>
-    <td align="center" colspan="2">
+    <td align="center" width="50%">
       <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=shubhransh-gupta&layout=compact&theme=dark&hide_border=false&border=55FFFF&bg_color=1B1B1B&title_color=55FF55&text_color=E0E0E0&langs_count=8" alt="Top Languages"/>
     </td>
   </tr>
 </table>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shubhransh-gupta&theme=react-dark&bg_color=1B1B1B&color=55FF55&line=5D8C2E&point=FFD700&area=true&hide_border=false&border=5D8C2E&radius=8&custom_title=BLOCK%20PLACEMENT%20LOG&custom_title_color=55FF55" alt="Contribution Activity Graph"/>
-
 <img src="https://github-profile-trophy-gamma.vercel.app/?username=shubhransh-gupta&theme=onedark&no-frame=false&no-bg=false&margin-w=4&column=7&title=Commits,Stars,Followers,Repositories&rank=-C" alt="GitHub Trophies"/>
 
-<img src="https://raw.githubusercontent.com/shubhransh-gupta/shubhransh-gupta/main/assets/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
+<br/><br/>
+
+### 🐍 Contribution Activity Stream
+
+<img src="https://raw.githubusercontent.com/shubhransh-gupta/shubhransh-gupta/main/assets/github-contribution-grid-snake.svg" width="100%" alt="Contribution Snake"/>
 
 <img src="https://raw.githubusercontent.com/shubhransh-gupta/shubhransh-gupta/main/assets/grass-divider.svg" width="100%" height="16" alt="Grass block divider"/>
 
