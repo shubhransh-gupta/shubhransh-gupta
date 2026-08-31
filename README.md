@@ -113,7 +113,9 @@ spawn:         🇮🇳 India
 
 <br/><br/>
 
-<img src="https://github-profile-trophy-gamma.vercel.app/?username=shubhransh-gupta&theme=onedark&no-frame=false&no-bg=false&margin-w=4&column=7&title=Commits,Stars,Followers,Repositories&rank=-C" alt="GitHub Trophies"/>
+<a href="https://github.com/shubhransh-gupta">
+  <img src="https://raw.githubusercontent.com/shubhransh-gupta/shubhransh-gupta/main/assets/github-profile-trophies.svg" width="100%" alt="GitHub Profile Trophies"/>
+</a>
 
 <br/><br/>
 
