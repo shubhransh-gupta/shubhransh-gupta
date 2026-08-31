@@ -36,55 +36,33 @@ spawn:         🇮🇳 India
 
 ---
 
-## 🏆 `ACHIEVEMENTS.UNLOCKED`
+## 🚀 `FEATURED_PROJECTS.WORKSPACE` — Original Builds & Apps
 
 <div align="center">
 
-<a href="https://github.com/shubhransh-gupta?tab=achievements">
-  <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="95" alt="Pull Shark x2 (Bronze Tier)" title="Pull Shark x2 (Bronze Tier)"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/shubhransh-gupta?tab=achievements">
-  <img src="https://github.githubassets.com/assets/pair-extraordinaire-default-579438a20e01.png" width="95" alt="Pair Extraordinaire x3 (Silver Tier)" title="Pair Extraordinaire x3 (Silver Tier)"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/shubhransh-gupta?tab=achievements">
-  <img src="https://github.githubassets.com/assets/quickdraw-default--light-medium-5450fadcbe37.png" width="95" alt="Quickdraw" title="Quickdraw"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/shubhransh-gupta?tab=achievements">
-  <img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="95" alt="YOLO" title="YOLO"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/shubhransh-gupta?tab=achievements">
-  <img src="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png" width="95" alt="Arctic Code Vault Contributor" title="Arctic Code Vault Contributor"/>
-</a>
-
-<br/>
-
-[![Pull Shark x2](https://img.shields.io/badge/PULL_SHARK-x2_BRONZE-55FF55?style=for-the-badge&logo=github&labelColor=1B1B1B)](https://github.com/shubhransh-gupta?achievement=pull-shark&tab=achievements)
-[![Pair Extraordinaire x3](https://img.shields.io/badge/PAIR_EXTRAORDINAIRE-x3_SILVER-55FFFF?style=for-the-badge&logo=github&labelColor=1B1B1B)](https://github.com/shubhransh-gupta?achievement=pair-extraordinaire&tab=achievements)
-[![Quickdraw](https://img.shields.io/badge/QUICKDRAW-UNLOCKED-FFD700?style=for-the-badge&logo=github&labelColor=1B1B1B)](https://github.com/shubhransh-gupta?achievement=quickdraw&tab=achievements)
-[![YOLO](https://img.shields.io/badge/YOLO-UNLOCKED-AA00AA?style=for-the-badge&logo=github&labelColor=1B1B1B)](https://github.com/shubhransh-gupta?achievement=yolo&tab=achievements)
-[![Arctic Code Vault](https://img.shields.io/badge/ARCTIC_VAULT-CONTRIBUTOR-5D8C2E?style=for-the-badge&logo=github&labelColor=1B1B1B)](https://github.com/shubhransh-gupta?achievement=arctic-code-vault-contributor&tab=achievements)
+| Project / Repository | Category | Core Highlights & Tech |
+| :--- | :--- | :--- |
+| [**findit**](https://github.com/shubhransh-gupta/findit) | Privacy-First Search Engine | Personal search engine Chrome extension for the internet you've already seen. 100% local-first indexing. |
+| [**ShubhranshProxy**](https://github.com/shubhransh-gupta/ShubhranshProxy) | macOS Networking & Debugging | Native macOS HTTP(S) debugging proxy with real-time SSL decryption, Map Local, breakpoints & HAR export. |
+| [**scavengers-assemble**](https://github.com/shubhransh-gupta/scavengers-assemble) | Multi-Agent AI & 3D Arcade | 3D Isometric Minecraft simulation engine orchestrating Claude, Gemini, GPT-4, Grok & Ollama as Avengers. |
+| [**LKO-Mark-3.4**](https://github.com/shubhransh-gupta/LKO-Mark-3.4) | Autonomous macOS Assistant | Tony Stark's JARVIS for macOS with Holographic Web HUD, Aerolite Obsidian MenuBar & AppleScript Automation. |
+| [**toknt**](https://github.com/shubhransh-gupta/toknt) | AI Context & Token Optimizer | Local-first token optimization for AI coding agents (Cursor, Claude Code, Codex). Cuts redundant context. |
+| [**OfflineCV**](https://github.com/shubhransh-gupta/OfflineCV) | Browser-Based ATS Workbench | Private, no-login PDF resume analyzer with local plain-text extraction and specificity scoring. Runs 100% in-browser. |
 
 </div>
 
 ---
 
-## 🌟 `OPEN_SOURCE.CONTRIBUTIONS`
+## 🌟 `OPEN_SOURCE.CONTRIBUTIONS` — Upstream & Ecosystem
 
 <div align="center">
 
 | Ecosystem / Project | Focus Area | Contribution Highlights |
 | :--- | :--- | :--- |
-| [**Fastlane**](https://github.com/fastlane/fastlane) | iOS Deployment & Tooling | Resign entitlement patching, `application-identifier` prefix preservation & RSpec suites. |
+| [**Fastlane**](https://github.com/fastlane/fastlane) | iOS Deployment & Tooling | Resign entitlement patching, `application-identifier` prefix preservation & RSpec test suites. |
 | [**Apple Swift Ecosystem**](https://github.com/apple) | Apple Developer Tooling | Contributions across `swift-argument-parser`, `swift-protobuf`, `swift-openapi-generator`, & `app-store-server-library-node`. |
 | [**SwiftLang**](https://github.com/swiftlang) | Compiler & Formatter Tooling | Enhancements across `swift-format` and syntax parser AST logic. |
 | [**MLX-Swift & Local AI**](https://github.com/ml-explore/mlx-swift) | Apple Silicon & LLMs | Metal-accelerated inference, KV cache optimization, and Swift LLM tooling. |
-| [**Scavengers Assemble**](https://github.com/shubhransh-gupta/scavengers-assemble) | 3D Simulation & AI Agents | Edge-to-edge 3D Isometric Minecraft simulation engine with autonomous multi-agent orchestration. |
-| [**OfflineCV**](https://github.com/offlinecv) | Edge Computer Vision | On-device computer vision pipelines and offline edge processing. |
-| [**ShubhranshProxy**](https://github.com/shubhransh-gupta/ShubhranshProxy) | macOS Networking | Native macOS HTTP(S) debugging proxy with SSL decryption & HAR export. |
 | [**Excalidraw**](https://github.com/excalidraw/excalidraw) | Collaborative Canvas | Core canvas tooling, performance optimizations, and UX enhancements. |
 
 </div>
