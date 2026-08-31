@@ -7,7 +7,7 @@
 <img src="https://raw.githubusercontent.com/shubhransh-gupta/shubhransh-gupta/main/assets/minecraft-mining.svg" width="420" height="80" alt="Mining commits animation"/>
 
 <!-- Pixel terminal typing -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=400&size=13&duration=2800&pause=1400&color=55FF55&center=true&vCenter=true&multiline=true&width=860&height=120&lines=Architecting+scalable+iOS+blueprints...;Optimizing+on-device+LLMs+and+Apple+Silicon+kernels;Crafting+CoreML+and+MLX-Swift+pipelines;Contributing+to+open-source+ecosystems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=400&size=13&duration=2800&pause=1400&color=55FF55&center=true&vCenter=true&multiline=true&width=860&height=120&lines=Architecting+scalable+iOS+blueprints...;Optimizing+on-device+LLMs+and+Apple+Silicon+kernels;Crafting+CoreML+and+MLX-Swift+pipelines;Contributing+to+Apple%2C+Swift+%26+Open-Source+ecosystems)](https://git.io/typing-svg)
 
 <!-- Scrolling grass divider -->
 <img src="https://raw.githubusercontent.com/shubhransh-gupta/shubhransh-gupta/main/assets/grass-divider.svg" width="100%" height="16" alt="Grass block divider"/>
@@ -36,16 +36,56 @@ spawn:         🇮🇳 India
 
 ---
 
+## 🏆 `ACHIEVEMENTS.UNLOCKED`
+
+<div align="center">
+
+<a href="https://github.com/shubhransh-gupta?tab=achievements">
+  <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="95" alt="Pull Shark x2 (Bronze Tier)" title="Pull Shark x2 (Bronze Tier)"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/shubhransh-gupta?tab=achievements">
+  <img src="https://github.githubassets.com/assets/pair-extraordinaire-default-579438a20e01.png" width="95" alt="Pair Extraordinaire x3 (Silver Tier)" title="Pair Extraordinaire x3 (Silver Tier)"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/shubhransh-gupta?tab=achievements">
+  <img src="https://github.githubassets.com/assets/quickdraw-default--light-medium-5450fadcbe37.png" width="95" alt="Quickdraw" title="Quickdraw"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/shubhransh-gupta?tab=achievements">
+  <img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="95" alt="YOLO" title="YOLO"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/shubhransh-gupta?tab=achievements">
+  <img src="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png" width="95" alt="Arctic Code Vault Contributor" title="Arctic Code Vault Contributor"/>
+</a>
+
+<br/>
+
+[![Pull Shark x2](https://img.shields.io/badge/PULL_SHARK-x2_BRONZE-55FF55?style=for-the-badge&logo=github&labelColor=1B1B1B)](https://github.com/shubhransh-gupta?achievement=pull-shark&tab=achievements)
+[![Pair Extraordinaire x3](https://img.shields.io/badge/PAIR_EXTRAORDINAIRE-x3_SILVER-55FFFF?style=for-the-badge&logo=github&labelColor=1B1B1B)](https://github.com/shubhransh-gupta?achievement=pair-extraordinaire&tab=achievements)
+[![Quickdraw](https://img.shields.io/badge/QUICKDRAW-UNLOCKED-FFD700?style=for-the-badge&logo=github&labelColor=1B1B1B)](https://github.com/shubhransh-gupta?achievement=quickdraw&tab=achievements)
+[![YOLO](https://img.shields.io/badge/YOLO-UNLOCKED-AA00AA?style=for-the-badge&logo=github&labelColor=1B1B1B)](https://github.com/shubhransh-gupta?achievement=yolo&tab=achievements)
+[![Arctic Code Vault](https://img.shields.io/badge/ARCTIC_VAULT-CONTRIBUTOR-5D8C2E?style=for-the-badge&logo=github&labelColor=1B1B1B)](https://github.com/shubhransh-gupta?achievement=arctic-code-vault-contributor&tab=achievements)
+
+</div>
+
+---
+
 ## 🌟 `OPEN_SOURCE.CONTRIBUTIONS`
 
 <div align="center">
 
-| Project / Org | Focus Area | Contribution Highlights |
+| Ecosystem / Project | Focus Area | Contribution Highlights |
 | :--- | :--- | :--- |
-| [**OfflineCV**](https://github.com/offlinecv) | Edge Computer Vision | On-device computer vision pipelines and offline edge processing. |
-| [**Excalidraw**](https://github.com/excalidraw/excalidraw) | Collaborative Canvas | Core canvas tooling, performance optimizations, and UX enhancements. |
+| [**Fastlane**](https://github.com/fastlane/fastlane) | iOS Deployment & Tooling | Resign entitlement patching, `application-identifier` prefix preservation & RSpec suites. |
+| [**Apple Swift Ecosystem**](https://github.com/apple) | Apple Developer Tooling | Contributions across `swift-argument-parser`, `swift-protobuf`, `swift-openapi-generator`, & `app-store-server-library-node`. |
+| [**SwiftLang**](https://github.com/swiftlang) | Compiler & Formatter Tooling | Enhancements across `swift-format` and syntax parser AST logic. |
 | [**MLX-Swift & Local AI**](https://github.com/ml-explore/mlx-swift) | Apple Silicon & LLMs | Metal-accelerated inference, KV cache optimization, and Swift LLM tooling. |
+| [**Scavengers Assemble**](https://github.com/shubhransh-gupta/scavengers-assemble) | 3D Simulation & AI Agents | Edge-to-edge 3D Isometric Minecraft simulation engine with autonomous multi-agent orchestration. |
+| [**OfflineCV**](https://github.com/offlinecv) | Edge Computer Vision | On-device computer vision pipelines and offline edge processing. |
 | [**ShubhranshProxy**](https://github.com/shubhransh-gupta/ShubhranshProxy) | macOS Networking | Native macOS HTTP(S) debugging proxy with SSL decryption & HAR export. |
+| [**Excalidraw**](https://github.com/excalidraw/excalidraw) | Collaborative Canvas | Core canvas tooling, performance optimizations, and UX enhancements. |
 
 </div>
 
