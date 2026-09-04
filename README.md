@@ -25,9 +25,9 @@
 ```yaml
 player:        Shubhransh Gupta
 class:         iOS Architect & On-Device AI / LLM Optimization Engineer
-guild:         Lenskart
+guild:         PocketRef
 specialization: Swift · CoreML · MLX · Metal · Quantization (INT4/AWQ) · LLM Inference
-level:         5+ years XP · MakeMyTrip · Navi · Nuclei · Lenskart
+level:         5+ years XP · MakeMyTrip · Navi · Nuclei · Lenskart · PocketRef
 status:        ONLINE — Shipping edge AI & mobile architectures to millions
 spawn:         🇮🇳 India
 ```
