@@ -1,12 +1,18 @@
 # Shubhransh Gupta
 
-> Open Source Contributor & AI Systems Architect based in Bengaluru, India. Eagerly contributing to frontier AI research, on-device LLM/SLM inference, Apple Silicon Metal GPU acceleration, and high-concurrency systems. Actively seeking complex technical challenges to counter and solve.
+> Primarily a Senior iOS Developer based in Bengaluru, India, with 5+ years of experience building high-scale mobile architectures. Also an active open-source contributor and on-device AI systems explorer.
 
 ## Summary
 
-Shubhransh Gupta is an open-source systems builder and AI research contributor. With deep expertise in Swift 6, Metal Shading Language, CoreML, and Apple's MLX ecosystem, he focuses on zero-latency, memory-constrained neural execution and high-concurrency architectures. He has contributed upstream patches to Apple, Google, Fastlane, and Microsoft, and built open-source systems including `toknt`, `ShubhranshProxy`, `scavengers-assemble`, and `findit`.
+Shubhransh Gupta is an iOS developer primarily, specializing in Swift 6, SwiftUI, UIKit, Concurrency, and modular mobile architecture across large consumer-scale applications (Navi, MakeMyTrip, Nuclei). Alongside his core iOS engineering, he actively contributes to open-source developer ecosystems and collaborates with AI researchers on on-device LLM/SLM inference, Apple Silicon Metal GPU acceleration (mlx-swift), and local-first intelligence tooling.
 
-## Core Technical Focus & AI Research
+## Primary Mobile Engineering & Architecture
+
+- **Core iOS & Swift**: Swift 6.0, SwiftUI, UIKit, Combine, Swift Concurrency (Actors, Tasks, Async/Await), and modular SDK development with SPM & CocoaPods.
+- **Architectural Patterns**: Clean Architecture, VIPER, MVVM, and Dependency Injection (Swinject).
+- **Scale & Stability**: 99.9% crash-free stability, main-thread hang optimization, and native performance instrumentation.
+
+## Open Source & Emerging AI Research (Hobby & Systems)
 
 - **On-Device LLMs & SLMs**: Memory-constrained inference, KV-cache optimization, and INT4 / AWQ / GGUF quantization.
 - **Metal GPU & Silicon Acceleration**: Low-level kernel profiling with MLX-Swift and Metal Shading Language (MSL). Authored merged patch resolving convolution padding bounds in Metal GPU kernels (ml-explore/mlx-swift#467).
