@@ -18,7 +18,7 @@ jobs:
         uses: maurodesouza/github-readme-activity-graph-action@v1
         with:
           username: shubhransh-gupta
-          options: theme=react-dark&bg_color=1B1B1B&color=55FF55&line=5D8C2E&point=FFD700&area=true&hide_border=false&border=5D8C2E&radius=8&custom_title=BLOCK%20PLACEMENT%20LOG&custom_title_color=55FF55
+          options: theme=react-dark&bg_color=090D16&color=00F5FF&line=8B5CF6&point=00FF9D&area=true&hide_border=false&border=00F5FF&radius=8&custom_title=NEURAL%20COMPUTE%20%26%20CONTRIBUTION%20TELEMETRY&custom_title_color=00F5FF
           output_path: dist/activity-graph.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 

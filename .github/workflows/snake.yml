@@ -17,7 +17,7 @@ jobs:
       - uses: Platane/snk/svg-only@v3
         with:
           github_user_name: shubhransh-gupta
-          outputs: dist/github-contribution-grid-snake.svg?color_snake=lime
+          outputs: dist/github-contribution-grid-snake.svg?color_snake=#00F5FF&color_dots=#161B22,#0E4429,#006D32,#26A641,#39D353
 
       - name: Copy snake to assets
         run: |
