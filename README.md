@@ -4,15 +4,15 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:030712,25:0f172a,50:00f5ff,100:8b5cf6&height=240&section=header&text=SHUBHRANSH%20GUPTA&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=%E2%9A%A1%20AI%20Research%20Contributor%20%C2%B7%20On-Device%20Intelligence%20%C2%B7%20Systems%20Architect&descSize=16&descAlignY=58&descAlign=50&descColor=e0e7ff"/>
 
 <!-- DYNAMIC CYBER TYPING SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2800&pause=1200&color=00F5FF&center=true&vCenter=true&multiline=true&width=880&height=110&lines=Entering+the+Frontier+AI+Era+%2F%2F+Neural+Architecture+%26+Edge+Intelligence+%F0%9F%A7%A0;Eager+Contributor+to+AI+Research%2C+Open+Models+%26+Neural+Runtimes+%E2%9A%A1;Optimizing+On-Device+LLMs%2C+Apple+Silicon+Kernels+%26+Metal+Compute+%F0%9F%9A%80;Open+Contributor+%C2%B7+Seeking+Complex+Technical+Challenges+to+Counter+%F0%9F%9B%A1%EF%B8%8F;Architecting+High-Concurrency+Systems+%26+Autonomous+AI+Agents+%F0%9F%8C%90)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2800&pause=1200&color=00F5FF&center=true&vCenter=true&multiline=true&width=880&height=110&lines=Entering+the+Frontier+AI+Era+%E2%9C%A6+Neural+Architecture+%26+Edge+Intelligence+%F0%9F%A7%A0;Eager+Contributor+to+AI+Research%2C+Open+Models+%26+Neural+Runtimes+%E2%9A%A1;Optimizing+On-Device+LLMs%2C+Apple+Silicon+Kernels+%26+Metal+Compute+%F0%9F%9A%80;Open+Contributor+%C2%B7+Seeking+Complex+Technical+Challenges+to+Counter+%F0%9F%9B%A1%EF%B8%8F;Architecting+High-Concurrency+Systems+%26+Autonomous+AI+Agents+%F0%9F%8C%90)](https://git.io/typing-svg)
 
 <br/>
 
-<!-- FUTURISTIC STATUS BADGES -->
-[![Status](https://img.shields.io/badge/MISSION-ACTIVE_OPEN_CONTRIBUTOR-00F5FF?style=for-the-badge&logo=target&logoColor=black&labelColor=090D16)](https://github.com/shubhransh-gupta)
-[![Challenge](https://img.shields.io/badge/CHALLENGES-READY_TO_COUNTER-00FF9D?style=for-the-badge&logo=shield&logoColor=black&labelColor=090D16)](mailto:gupta.subhransh@gmail.com)
-[![Research Focus](https://img.shields.io/badge/AI_RESEARCH-ON--DEVICE_&_FOUNDATION_MODELS-8B5CF6?style=for-the-badge&logo=openai&logoColor=white&labelColor=090D16)](https://github.com/shubhransh-gupta)
-[![Telemetry](https://komarev.com/ghpvc/?username=shubhransh-gupta&label=NEURAL+ACCESS+TELEMETRY&color=00F5FF&style=for-the-badge)](https://github.com/shubhransh-gupta)
+<!-- HIGH-CONTRAST FUTURISTIC STATUS BADGES -->
+[![Mission Status](https://img.shields.io/badge/MISSION-ACTIVE_OPEN_CONTRIBUTOR-0284C7?style=for-the-badge&logo=target&logoColor=white&labelColor=0D1117)](https://github.com/shubhransh-gupta)
+[![Challenge Beacon](https://img.shields.io/badge/CHALLENGES-READY_TO_COUNTER-059669?style=for-the-badge&logo=shield&logoColor=white&labelColor=0D1117)](mailto:gupta.subhransh@gmail.com)
+[![AI Research Focus](https://img.shields.io/badge/AI_RESEARCH-EDGE_&_FOUNDATION_MODELS-7C3AED?style=for-the-badge&logo=openai&logoColor=white&labelColor=0D1117)](https://github.com/shubhransh-gupta)
+[![Neural Telemetry](https://komarev.com/ghpvc/?username=shubhransh-gupta&label=NEURAL+TELEMETRY+ACCESS&color=0284C7&style=for-the-badge)](https://github.com/shubhransh-gupta)
 
 <br/>
 
@@ -21,7 +21,7 @@
 
 </div>
 
-## 🧬 `// 01. NEURAL CORE & RUNTIME DIRECTIVE`
+## 🧬 ✦ Neural Core & Runtime Directive
 
 ```yaml
 neural_core:
@@ -41,7 +41,7 @@ neural_core:
 <img src="https://raw.githubusercontent.com/shubhransh-gupta/shubhransh-gupta/main/assets/cyber-divider.svg" width="100%" height="20" alt="Cyber Divider"/>
 </div>
 
-## 🧠 `// 02. FRONTIER AI RESEARCH & NEURAL ENGINEERING`
+## 🧠 ✦ Frontier AI Research & Neural Engineering
 
 <div align="center">
 
@@ -60,7 +60,7 @@ I actively contribute to AI researchers, open research groups, and frontier proj
 <img src="https://raw.githubusercontent.com/shubhransh-gupta/shubhransh-gupta/main/assets/cyber-divider.svg" width="100%" height="20" alt="Cyber Divider"/>
 </div>
 
-## 🛸 `// 03. QUANTUM ARTIFACTS & EXPERIMENTAL REPOSITORIES`
+## 🛸 ✦ Featured Systems & Autonomous Builds
 
 <table>
   <tr>
@@ -144,7 +144,7 @@ I actively contribute to AI researchers, open research groups, and frontier proj
 <img src="https://raw.githubusercontent.com/shubhransh-gupta/shubhransh-gupta/main/assets/cyber-divider.svg" width="100%" height="20" alt="Cyber Divider"/>
 </div>
 
-## 🌐 `// 04. UPSTREAM ECOSYSTEM & CORE RUNTIMES`
+## 🌐 ✦ Upstream Ecosystem & Core Runtimes
 
 Active open-source contributor solving core compiler, GPU runtime, and enterprise infrastructure challenges:
 
@@ -163,7 +163,7 @@ Active open-source contributor solving core compiler, GPU runtime, and enterpris
 <img src="https://raw.githubusercontent.com/shubhransh-gupta/shubhransh-gupta/main/assets/cyber-divider.svg" width="100%" height="20" alt="Cyber Divider"/>
 </div>
 
-## ⚡ `// 05. SYNAPTIC COMPUTE MATRIX & TECH STACK`
+## ⚡ ✦ Synaptic Compute Matrix & Tech Stack
 
 <div align="center">
 
@@ -190,7 +190,7 @@ Active open-source contributor solving core compiler, GPU runtime, and enterpris
 <img src="https://raw.githubusercontent.com/shubhransh-gupta/shubhransh-gupta/main/assets/cyber-divider.svg" width="100%" height="20" alt="Cyber Divider"/>
 </div>
 
-## 📡 `// 06. GLOBAL TELEMETRY & CONTRIBUTION SATELLITE`
+## 📡 ✦ Global Telemetry & Contribution Radar
 
 <div align="center">
 
@@ -233,20 +233,20 @@ Active open-source contributor solving core compiler, GPU runtime, and enterpris
 <img src="https://raw.githubusercontent.com/shubhransh-gupta/shubhransh-gupta/main/assets/cyber-divider.svg" width="100%" height="20" alt="Cyber Divider"/>
 </div>
 
-## 🛰️ `// 07. TRANSMISSION UPLINK & CHALLENGE BEACON`
+## 🎯 ✦ Challenge Beacon & Transmission Uplink
 
 <div align="center">
 
-### 🎯 *Looking for Tough Technical Challenges to Counter*
-Have an ambitious AI research project, an edge LLM performance bottleneck, a complex systems architecture puzzle, or an open-source initiative that needs deep engineering firepower? **Let's connect and solve it.**
+### ⚡ *Open Contributor · Ready to Counter Complex Technical Challenges*
+Have an ambitious AI research direction, an on-device inference bottleneck, a low-level systems puzzle, or an open-source initiative that needs engineering horsepower? **Let's connect and solve it.**
 
 <br/>
 
-[![Email Transmission](https://img.shields.io/badge/TRANSMIT_SIGNAL-00F5FF?style=for-the-badge&logo=gmail&logoColor=black&labelColor=090D16)](mailto:gupta.subhransh@gmail.com)
-[![LinkedIn Signal](https://img.shields.io/badge/LINKEDIN_UPLINK-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=090D16)](https://www.linkedin.com/in/shubhransh-gupta/)
-[![Live Portfolio](https://img.shields.io/badge/SYSTEM_PORTAL-00FF9D?style=for-the-badge&logo=safari&logoColor=black&labelColor=090D16)](https://shubhransh-gupta.github.io/shubhransh_cv/)
-[![Download CV](https://img.shields.io/badge/DECRYPT_RESUME-F59E0B?style=for-the-badge&logo=adobeacrobatreader&logoColor=black&labelColor=090D16)](https://shubhransh-gupta.github.io/cv/assets/resume/Shubhransh-Gupta-Resume.pdf)
-[![GitHub Terminal](https://img.shields.io/badge/CODE_REPOSITORY-E0E7FF?style=for-the-badge&logo=github&logoColor=black&labelColor=090D16)](https://github.com/shubhransh-gupta)
+[![Email Signal](https://img.shields.io/badge/EMAIL_TRANSMISSION-GET_IN_TOUCH-0284C7?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117)](mailto:gupta.subhransh@gmail.com)
+[![LinkedIn Signal](https://img.shields.io/badge/LINKEDIN_UPLINK-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117)](https://www.linkedin.com/in/shubhransh-gupta/)
+[![Live Portfolio](https://img.shields.io/badge/SYSTEM_PORTAL-EXPLORE_LIVE-059669?style=for-the-badge&logo=safari&logoColor=white&labelColor=0D1117)](https://shubhransh-gupta.github.io/shubhransh_cv/)
+[![Download CV](https://img.shields.io/badge/DECRYPT_RESUME-VIEW_PDF-D97706?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&labelColor=0D1117)](https://shubhransh-gupta.github.io/cv/assets/resume/Shubhransh-Gupta-Resume.pdf)
+[![GitHub Codebase](https://img.shields.io/badge/CODE_REPOSITORY-FOLLOW_PROJECTS-7C3AED?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)](https://github.com/shubhransh-gupta)
 
 <br/><br/>
 
