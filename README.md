@@ -1,15 +1,15 @@
 <div align="center">
 
 <!-- ⚡ NEURAL CYBER HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:030712,25:0f172a,50:00f5ff,100:8b5cf6&height=240&section=header&text=SHUBHRANSH%20GUPTA&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Senior%20iOS%20Developer%20(Primarily)%20%C2%B7%20Open%20Source%20Contributor%20%C2%B7%20AI%20Explorer&descSize=16&descAlignY=58&descAlign=50&descColor=e0e7ff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:030712,25:0f172a,50:00f5ff,100:8b5cf6&height=240&section=header&text=SHUBHRANSH%20GUPTA&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Senior%20Software%20Engineer%20at%20Coupang%20(iOS%20Primarily)%20%C2%B7%20Open%20Source%20Contributor%20%C2%B7%20AI%20Explorer&descSize=16&descAlignY=58&descAlign=50&descColor=e0e7ff"/>
 
 <!-- DYNAMIC CYBER TYPING SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2800&pause=1200&color=00F5FF&center=true&vCenter=true&multiline=true&width=880&height=110&lines=Senior+iOS+Developer+(Primarily)+%F0%9F%93%B1;Crafting+Scalable+Swift+6+%26+Apple+Silicon+Systems+%E2%9A%A1;Eager+Contributor+to+AI+Research%2C+Open+Models+%26+Neural+Runtimes+%F0%9F%A7%A0;Open+Contributor+%C2%B7+Seeking+Complex+Technical+Challenges+to+Counter+%F0%9F%9B%A1%EF%B8%8F;Optimizing+On-Device+LLMs%2C+MLX-Swift+Kernels+%26+Autonomous+Agents+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2800&pause=1200&color=00F5FF&center=true&vCenter=true&multiline=true&width=880&height=110&lines=Senior+Software+Engineer+at+Coupang+(iOS+Primarily)+%F0%9F%93%B1;Crafting+Scalable+Swift+6+%26+Apple+Silicon+Systems+%E2%9A%A1;Eager+Contributor+to+AI+Research%2C+Open+Models+%26+Neural+Runtimes+%F0%9F%A7%A0;Open+Contributor+%C2%B7+Seeking+Complex+Technical+Challenges+to+Counter+%F0%9F%9B%A1%EF%B8%8F;Optimizing+On-Device+LLMs%2C+MLX-Swift+Kernels+%26+Autonomous+Agents+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <br/>
 
 <!-- HIGH-CONTRAST FUTURISTIC STATUS BADGES -->
-[![Primary Role](https://img.shields.io/badge/ROLE-SENIOR_iOS_DEVELOPER_(PRIMARILY)-0284C7?style=for-the-badge&logo=apple&logoColor=white&labelColor=0D1117)](https://github.com/shubhransh-gupta)
+[![Primary Role](https://img.shields.io/badge/ROLE-SENIOR_SOFTWARE_ENGINEER_@_COUPANG-0284C7?style=for-the-badge&logo=apple&logoColor=white&labelColor=0D1117)](https://github.com/shubhransh-gupta)
 [![Open Contributor](https://img.shields.io/badge/OPEN_CONTRIBUTOR-AI_&_SYSTEMS-7C3AED?style=for-the-badge&logo=openai&logoColor=white&labelColor=0D1117)](https://github.com/shubhransh-gupta)
 [![Challenge Beacon](https://img.shields.io/badge/CHALLENGES-READY_TO_COUNTER-059669?style=for-the-badge&logo=shield&logoColor=white&labelColor=0D1117)](mailto:gupta.subhransh@gmail.com)
 [![Neural Telemetry](https://komarev.com/ghpvc/?username=shubhransh-gupta&label=NEURAL+TELEMETRY+ACCESS&color=0284C7&style=for-the-badge)](https://github.com/shubhransh-gupta)
@@ -26,7 +26,7 @@
 ```yaml
 neural_core:
   operator:        Shubhransh Gupta
-  primary_focus:   Senior iOS Developer (Primarily)
+  primary_focus:   Senior Software Engineer at Coupang (iOS Primarily)
   open_source:     Active Open Contributor & On-Device AI Systems Explorer
   mission_status:  READY — Actively seeking high-impact technical challenges to counter & conquer
   core_systems:    Swift 6.0 · Concurrency (Actors/Tasks) · SwiftUI & UIKit · Scalable Architecture
@@ -35,7 +35,7 @@ neural_core:
   neural_uplink:   Bengaluru, India 🇮🇳 (Synchronous Global Remote)
 ```
 
-> 🌌 *"I am primarily a Senior iOS Developer who treats mobile applications not as static UI canvases, but as real-time, high-concurrency distributed engines. Alongside engineering high-scale native iOS systems across consumer products, I am an eager open contributor collaborating with AI researchers on on-device LLMs, Metal GPU acceleration, and local-first intelligence. I am relentlessly looking for the next tough technical challenge to conquer."*
+> 🌌 *"I am a Senior Software Engineer at Coupang (primarily iOS) who treats mobile applications not as static UI canvases, but as real-time, high-concurrency distributed engines. Alongside engineering high-scale native iOS systems across consumer products, I am an eager open contributor collaborating with AI researchers on on-device LLMs, Metal GPU acceleration, and local-first intelligence. I am relentlessly looking for the next tough technical challenge to conquer."*
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/shubhransh-gupta/shubhransh-gupta/main/assets/cyber-divider.svg" width="100%" height="20" alt="Cyber Divider"/>

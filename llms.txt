@@ -1,10 +1,10 @@
 # Shubhransh Gupta
 
-> Primarily a Senior iOS Developer based in Bengaluru, India, with 5+ years of experience building high-scale mobile architectures. Also an active open-source contributor and on-device AI systems explorer.
+> Senior Software Engineer at Coupang (primarily iOS) based in Bengaluru, India, with 5+ years of experience building high-scale mobile architectures. Also an active open-source contributor and on-device AI systems explorer.
 
 ## Summary
 
-Shubhransh Gupta is an iOS developer primarily, specializing in Swift 6, SwiftUI, UIKit, Concurrency, and modular mobile architecture across large consumer-scale applications (Navi, MakeMyTrip, Nuclei). Alongside his core iOS engineering, he actively contributes to open-source developer ecosystems and collaborates with AI researchers on on-device LLM/SLM inference, Apple Silicon Metal GPU acceleration (mlx-swift), and local-first intelligence tooling.
+Shubhransh Gupta is a Senior Software Engineer at Coupang specializing in Swift 6, SwiftUI, UIKit, Concurrency, and modular mobile architecture across large consumer-scale applications (Coupang, Navi, MakeMyTrip, Nuclei). Alongside his core iOS engineering, he actively contributes to open-source developer ecosystems and collaborates with AI researchers on on-device LLM/SLM inference, Apple Silicon Metal GPU acceleration (mlx-swift), and local-first intelligence tooling.
 
 ## Primary Mobile Engineering & Architecture
 
