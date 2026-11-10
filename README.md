@@ -278,8 +278,9 @@ Have an ambitious AI research direction, an on-device inference bottleneck, a lo
 
 [![Email Signal](https://img.shields.io/badge/EMAIL_TRANSMISSION-GET_IN_TOUCH-0284C7?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117)](mailto:gupta.subhransh@gmail.com)
 [![LinkedIn Signal](https://img.shields.io/badge/LINKEDIN_UPLINK-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117)](https://www.linkedin.com/in/shubhransh-gupta/)
-[![Live Portfolio](https://img.shields.io/badge/SYSTEM_PORTAL-EXPLORE_LIVE-059669?style=for-the-badge&logo=safari&logoColor=white&labelColor=0D1117)](https://shubhransh-gupta.github.io/shubhransh_cv/)
-[![Download CV](https://img.shields.io/badge/DECRYPT_RESUME-VIEW_PDF-D97706?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&labelColor=0D1117)](https://shubhransh-gupta.github.io/cv/assets/resume/Shubhransh-Gupta-Resume.pdf)
+[![Flagship Portfolio](https://img.shields.io/badge/CAREER_DOSSIER-SHUBHRANSH.IS--A.DEV-059669?style=for-the-badge&logo=safari&logoColor=white&labelColor=0D1117)](https://shubhransh.is-a.dev/)
+[![AI & Systems Lab](https://img.shields.io/badge/AI_SYSTEMS_LAB-SHUBHRANSH--GUPTA.IS--A.DEV-7C3AED?style=for-the-badge&logo=apple&logoColor=white&labelColor=0D1117)](https://shubhransh-gupta.is-a.dev/)
+[![Download CV](https://img.shields.io/badge/DECRYPT_RESUME-VIEW_PDF-D97706?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&labelColor=0D1117)](https://shubhransh.is-a.dev/assets/resume/Shubhransh-Gupta-Resume.pdf)
 [![GitHub Codebase](https://img.shields.io/badge/CODE_REPOSITORY-FOLLOW_PROJECTS-7C3AED?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)](https://github.com/shubhransh-gupta)
 
 <br/><br/>

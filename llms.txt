@@ -47,7 +47,8 @@ Shubhransh Gupta is a Senior Software Engineer at Coupang specializing in Swift 
 
 ## Primary Links & Canonical Profiles
 
-- Portfolio / Canonical Site: https://shubhransh.is-a.dev/ (https://shubhransh-gupta.github.io/cv/)
+- Flagship Career Dossier: https://shubhransh.is-a.dev/
+- AI Systems & Concurrency Lab: https://shubhransh-gupta.is-a.dev/
 - GitHub: https://github.com/shubhransh-gupta
 - LinkedIn: https://www.linkedin.com/in/shubhransh-gupta/
 - Email: gupta.subhransh@gmail.com
