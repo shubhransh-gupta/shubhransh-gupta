@@ -31,6 +31,7 @@ Shubhransh Gupta is a Senior Software Engineer at Coupang specializing in Swift 
 
 ## Upstream Contributions
 
+- **Point-Free swift-snapshot-testing** (Active PR #1136): Enabled Swift Testing snapshot attachment recording when executing tests from the command line (`swift test --attachments-path`).
 - **Tuist CLI & Build Toolchain** (Merged PR #15500, Active PRs #15568 & #15566): Handled empty warning headers & simctl JSON; resilient simulator boot lifecycle and whoami token discovery.
 - **Kingfisher Swift Image Pipeline** (Active PRs #2618, #2617, #2616, #2614): Replayed cancellation on linked task shells, prefetcher cache file extension forwarding, DocC fixes, and fluent builder APIs.
 - **Bloc Flutter State Management** (Active PR #4912): Implemented `prefer_multi_bloc_provider` custom lint rule.

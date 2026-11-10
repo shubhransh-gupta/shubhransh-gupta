@@ -175,6 +175,7 @@ Active open-source contributor solving core compiler, GPU runtime, image pipelin
 
 | Ecosystem / Organization | Target Repository | Engineering Breakthrough | PR / Commit Status |
 | :--- | :--- | :--- | :---: |
+| 📸 **Point-Free (Snapshot Testing)** | [`pointfreeco/swift-snapshot-testing#1136`](https://github.com/pointfreeco/swift-snapshot-testing/pull/1136) | Enabled Swift Testing attachments when executing via CLI (`swift test --attachments-path`) | `ACTIVE #1136` |
 | 🛠️ **Tuist (Xcode Toolchain)** | [`tuist/tuist#15500`](https://github.com/tuist/tuist/pull/15500) | Handled empty warning headers & empty `simctl` JSON in CLI parser | `MERGED #15500` |
 | 🛠️ **Tuist (CLI Lifecycle)** | [`tuist/tuist#15568`](https://github.com/tuist/tuist/pull/15568) | Handled already-booted iOS simulators safely in `simctl boot` pipeline | `ACTIVE #15568` |
 | 🛠️ **Tuist (Auth Subsystem)** | [`tuist/tuist#15566`](https://github.com/tuist/tuist/pull/15566) | Extended `tuist auth whoami` to report active project and account tokens | `ACTIVE #15566` |
