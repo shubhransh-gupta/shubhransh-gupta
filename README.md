@@ -127,14 +127,39 @@ I actively contribute to AI researchers, open research groups, and frontier proj
     </td>
     <td width="50%" valign="top">
       <h3 align="center">🚗 <a href="https://shubhransh-gupta.github.io/courier-city/">Courier City</a></h3>
-      <p align="center"><b>60 FPS 3D Open-World Procedural Simulation</b></p>
-      <p>Browser-based 3D procedural simulation featuring rigid-body vehicle physics, aerial dynamics, and real-time procedural street grid generation across 3,600+ lines of pure JavaScript without external 3D asset downloads.</p>
+      <p align="center"><b>60 FPS 3D Open-World Simulation & Survey of India GIS</b></p>
+      <p>Browser-based 3D simulation with Bruno Simon diorama aesthetic, real-time rigid-body vehicle physics, official Survey of India boundary integration, Bangalore transit corridors, ambient air traffic, and live telemetry HUD.</p>
       <p align="center">
-        <code>Three.js</code> · <code>Cannon-ES Physics</code> · <code>WebGL</code> · <code>JavaScript</code>
+        <code>Three.js</code> · <code>Cannon-ES Physics</code> · <code>Survey of India GIS</code> · <code>WebGL / GLSL</code>
       </p>
       <p align="center">
         <a href="https://shubhransh-gupta.github.io/courier-city/"><b>[Play Live Simulation]</b></a> ·
         <a href="https://github.com/shubhransh-gupta/courier-city"><b>[GitHub]</b></a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🔒 <a href="https://github.com/shubhransh-gupta/mirrorLock">MirrorLock</a></h3>
+      <p align="center"><b>macOS Privacy Lockscreen for Autonomous AI Agents</b></p>
+      <p>Native macOS utility allowing developers to visually observe autonomous AI agents (Claude Code, Cursor, Codex) in real-time while securely locking keyboard & mouse input until Touch ID / PAM authentication.</p>
+      <p align="center">
+        <code>Swift 6.0</code> · <code>AppKit</code> · <code>LocalAuthentication (Touch ID)</code> · <code>Homebrew</code>
+      </p>
+      <p align="center">
+        <a href="https://github.com/shubhransh-gupta/mirrorLock"><b>[Inspect Codebase]</b></a> ·
+        <a href="https://github.com/shubhransh-gupta/homebrew-tap"><b>[Homebrew Tap]</b></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">⌚ <a href="https://github.com/shubhransh-gupta/Wednesday">Wednesday</a></h3>
+      <p align="center"><b>Private Personal AI Agent Mesh for Apple Watch & iPhone</b></p>
+      <p>Private personal AI assistant and agent mesh spanning Apple Watch, iOS, and macOS. Enables on-the-go biometric voice interaction, multi-node tool dispatch, and cross-desktop control with zero cloud telemetry.</p>
+      <p align="center">
+        <code>SwiftUI</code> · <code>WatchConnectivity</code> · <code>CoreML</code> · <code>Agent Mesh Protocols</code>
+      </p>
+      <p align="center">
+        <a href="https://github.com/shubhransh-gupta/Wednesday"><b>[Inspect Codebase]</b></a>
       </p>
     </td>
   </tr>
@@ -146,18 +171,26 @@ I actively contribute to AI researchers, open research groups, and frontier proj
 
 ## 🌐 ✦ Upstream Ecosystem & Core Runtimes
 
-Active open-source contributor solving core compiler, GPU runtime, and enterprise infrastructure challenges:
+Active open-source contributor solving core compiler, GPU runtime, image pipeline, and developer toolchain challenges:
 
 | Ecosystem / Organization | Target Repository | Engineering Breakthrough | PR / Commit Status |
 | :--- | :--- | :--- | :---: |
-| 🍎 **Apple Silicon / AI** | [`ml-explore/mlx-swift`](https://github.com/ml-explore/mlx-swift/pull/467) | Fixed convolution padding bounds & memory bounds in Metal GPU kernels | `MERGED #467` |
-| 🍎 **Apple Swift Toolchain** | [`apple/swift-argument-parser`](https://github.com/apple/swift-argument-parser/pull/961) | Resolved core flag-parsing edge case for attached values (`--opt=`) in Swift CLI | `MERGED #961` |
-| 🍎 **Apple Protocols** | [`apple/swift-protobuf`](https://github.com/apple/swift-protobuf/pull/2159) | Implemented `useDeterministicOrdering` in TextFormat serialization for reproducible testing | `MERGED #2159` |
-| 🌐 **Google Core Security** | [`google/osv-scanner`](https://github.com/google/osv-scanner/pull/3049) | Fixed vulnerability report checklist filter state preservation in HTML output | `MERGED #3049` |
-| 📱 **AppLovin / Cross-Platform** | [`AppLovin/AppLovin-MAX-React-Native`](https://github.com/AppLovin/AppLovin-MAX-React-Native/pull/488) | Resolved ad view constraints, sizing boundaries, and mount memory leak lifecycle | `PR #488 #487` |
-| 📱 **AppLovin / Mobile** | [`AppLovin/AppLovin-MAX-Flutter`](https://github.com/AppLovin/AppLovin-MAX-Flutter/pull/366) | Updated Android `compileSdk 36` compatibility across Flutter MAX plugin suite | `PR #366` |
-| 🚀 **Fastlane Mobile Toolchain** | [`fastlane/fastlane`](https://github.com/fastlane/fastlane/pull/30169) | Prevented duplicate prefix injection in `application-identifier` entitlements | `MERGED #30169` |
-| 💻 **Microsoft Cloud** | [`dotnet/aspire`](https://github.com/dotnet/aspire/pull/19931) | Standardized telemetry timestamp controls across distributed cloud hosts | `ACTIVE #19931` |
+| 🛠️ **Tuist (Xcode Toolchain)** | [`tuist/tuist#15500`](https://github.com/tuist/tuist/pull/15500) | Handled empty warning headers & empty `simctl` JSON in CLI parser | `MERGED #15500` |
+| 🛠️ **Tuist (CLI Lifecycle)** | [`tuist/tuist#15568`](https://github.com/tuist/tuist/pull/15568) | Handled already-booted iOS simulators safely in `simctl boot` pipeline | `ACTIVE #15568` |
+| 🛠️ **Tuist (Auth Subsystem)** | [`tuist/tuist#15566`](https://github.com/tuist/tuist/pull/15566) | Extended `tuist auth whoami` to report active project and account tokens | `ACTIVE #15566` |
+| 🖼️ **Kingfisher (Swift Image)** | [`onevcat/Kingfisher#2618`](https://github.com/onevcat/Kingfisher/pull/2618) | Replayed cancellation on linked download task shells during async cache checks | `ACTIVE #2618` |
+| 🖼️ **Kingfisher (Prefetcher)** | [`onevcat/Kingfisher#2617`](https://github.com/onevcat/Kingfisher/pull/2617) | Forwarded `forcedExtension` in prefetcher cache type probes | `ACTIVE #2617` |
+| 🖼️ **Kingfisher (Docs & DocC)** | [`onevcat/Kingfisher#2616`](https://github.com/onevcat/Kingfisher/pull/2616) | Modernized async request modifier signatures and fixed DocC link resolution | `ACTIVE #2616` |
+| 🖼️ **Kingfisher (Fluent API)** | [`onevcat/Kingfisher#2614`](https://github.com/onevcat/Kingfisher/pull/2614) | Added fluent option builders for async cache & decoding options | `ACTIVE #2614` |
+| 🧩 **Bloc (Flutter State)** | [`felangel/bloc#4912`](https://github.com/felangel/bloc/pull/4912) | Implemented `prefer_multi_bloc_provider` lint rule for optimized widget nesting | `ACTIVE #4912` |
+| 🍎 **Apple Silicon / AI** | [`ml-explore/mlx-swift#467`](https://github.com/ml-explore/mlx-swift/pull/467) | Fixed convolution padding bounds & memory bounds in Metal GPU kernels | `MERGED #467` |
+| 🍎 **Apple OpenAPI Runtime** | [`apple/swift-openapi-runtime#214`](https://github.com/apple/swift-openapi-runtime/pull/214) | Added validating mutating setters to dynamic OpenAPI value containers | `MERGED #214` |
+| 🍎 **Apple Swift Toolchain** | [`apple/swift-argument-parser#961`](https://github.com/apple/swift-argument-parser/pull/961) | Resolved core flag-parsing edge case for attached values (`--opt=`) in Swift CLI | `MERGED #961` |
+| 🍎 **Apple Protocols** | [`apple/swift-protobuf#2159`](https://github.com/apple/swift-protobuf/pull/2159) | Implemented `useDeterministicOrdering` in TextFormat serialization | `MERGED #2159` |
+| 📡 **Prebid Mobile iOS** | [`prebid/prebid-mobile-ios#1395`](https://github.com/prebid/prebid-mobile-ios/pull/1395) | Populated `noAdsResponseURI` for VAST Error elements & optimized URLSession reuse | `MERGED #1395` |
+| 🖼️ **SDWebImage SwiftUI** | [`SDWebImage/SDWebImageSwiftUI#368`](https://github.com/SDWebImage/SDWebImageSwiftUI/pull/368) | Forwarded scale parameter in `WebImage` convenience initializers | `ACTIVE #368` |
+| 🌐 **Google Core Security** | [`google/osv-scanner#3049`](https://github.com/google/osv-scanner/pull/3049) | Fixed vulnerability report checklist filter state preservation in HTML output | `MERGED #3049` |
+| 🚀 **Fastlane Mobile Toolchain** | [`fastlane/fastlane#30169`](https://github.com/fastlane/fastlane/pull/30169) | Prevented duplicate prefix injection in `application-identifier` entitlements | `MERGED #30169` |
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/shubhransh-gupta/shubhransh-gupta/main/assets/cyber-divider.svg" width="100%" height="20" alt="Cyber Divider"/>

@@ -26,10 +26,17 @@ Shubhransh Gupta is an iOS developer primarily, specializing in Swift 6, SwiftUI
 - **scavengers-assemble** (https://github.com/shubhransh-gupta/scavengers-assemble): 3D isometric simulation engine orchestrating multi-agent LLM interactions in real-time.
 - **findit** (https://github.com/shubhransh-gupta/findit): Privacy-first local vector search and embedding engine for personal browsing history.
 - **RebelRoutes India** (https://github.com/shubhransh-gupta/rebelroutes-india): Multimodal anti-gridlock urban transit routing engine using FastAPI and graph theory.
-- **Courier City** (https://github.com/shubhransh-gupta/courier-city): 60 FPS 3D WebGL procedural simulation engine with rigid-body vehicle physics.
+- **Courier City** (https://github.com/shubhransh-gupta/courier-city): 60 FPS 3D WebGL simulation engine with rigid-body vehicle physics, Bruno Simon diorama aesthetic, and Survey of India official boundary GIS.
+- **MirrorLock** (https://github.com/shubhransh-gupta/mirrorLock): Native macOS security lockscreen utility allowing live observation of autonomous background AI agents while securing user inputs with Touch ID.
 
 ## Upstream Contributions
 
+- **Tuist CLI & Build Toolchain** (Merged PR #15500, Active PRs #15568 & #15566): Handled empty warning headers & simctl JSON; resilient simulator boot lifecycle and whoami token discovery.
+- **Kingfisher Swift Image Pipeline** (Active PRs #2618, #2617, #2616, #2614): Replayed cancellation on linked task shells, prefetcher cache file extension forwarding, DocC fixes, and fluent builder APIs.
+- **Bloc Flutter State Management** (Active PR #4912): Implemented `prefer_multi_bloc_provider` custom lint rule.
+- **Apple swift-openapi-runtime** (Merged PR #214): Added validating mutating setters to dynamic OpenAPI value containers.
+- **Prebid Mobile iOS SDK** (Merged PR #1395, Active PR #1357): Populated `noAdsResponseURI` for VAST Error elements & cached URLSession connection reuse.
+- **SDWebImageSwiftUI** (Active PR #368): Forwarded scale parameter in `WebImage` convenience initializers.
 - **Apple mlx-swift** (Merged PR #467): Corrected convolution padding bounds calculation in Metal GPU kernels.
 - **Apple swift-argument-parser** (Merged PR #961): Resolved core flag-parsing edge case with attached values in Swift CLI.
 - **Apple swift-protobuf** (Merged PR #2159): Implemented deterministic ordering in TextFormat serialization for reproducible testing.
