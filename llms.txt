@@ -33,7 +33,7 @@ Shubhransh Gupta is a Senior Software Engineer at Coupang specializing in Swift 
 
 - **Point-Free swift-snapshot-testing** (Active PR #1136): Enabled Swift Testing snapshot attachment recording when executing tests from the command line (`swift test --attachments-path`).
 - **Tuist CLI & Build Toolchain** (Merged PR #15500, Active PRs #15568 & #15566): Handled empty warning headers & simctl JSON; resilient simulator boot lifecycle and whoami token discovery.
-- **Kingfisher Swift Image Pipeline** (Merged PRs #2618, #2617, #2616, #2614): Replayed cancellation on linked task shells, prefetcher cache file extension forwarding, DocC fixes, and fluent builder APIs.
+- **Kingfisher Swift Image Pipeline** (Merged PRs #2618, #2617, #2616, #2614, Active PR #2627): Added fluent builders for `preloadAllAnimationData`, `keepCurrentImageWhileLoading`, and `alsoPrefetchToMemory`; replayed cancellation on linked task shells, prefetcher cache file extension forwarding, DocC fixes, and fluent builder APIs.
 - **Bloc Flutter State Management** (Active PR #4912): Implemented `prefer_multi_bloc_provider` custom lint rule.
 - **Apple swift-openapi-runtime** (Merged PR #214): Added validating mutating setters to dynamic OpenAPI value containers.
 - **Prebid Mobile iOS SDK** (Merged PR #1395, Active PR #1357): Populated `noAdsResponseURI` for VAST Error elements & cached URLSession connection reuse.

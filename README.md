@@ -179,6 +179,7 @@ Active open-source contributor solving core compiler, GPU runtime, image pipelin
 | 🛠️ **Tuist (Xcode Toolchain)** | [`tuist/tuist#15500`](https://github.com/tuist/tuist/pull/15500) | Handled empty warning headers & empty `simctl` JSON in CLI parser | `MERGED #15500` |
 | 🛠️ **Tuist (CLI Lifecycle)** | [`tuist/tuist#15568`](https://github.com/tuist/tuist/pull/15568) | Handled already-booted iOS simulators safely in `simctl boot` pipeline | `ACTIVE #15568` |
 | 🛠️ **Tuist (Auth Subsystem)** | [`tuist/tuist#15566`](https://github.com/tuist/tuist/pull/15566) | Extended `tuist auth whoami` to report active project and account tokens | `ACTIVE #15566` |
+| 🖼️ **Kingfisher (Fluent API)** | [`onevcat/Kingfisher#2627`](https://github.com/onevcat/Kingfisher/pull/2627) | Added fluent option setters for `preloadAllAnimationData`, `keepCurrentImageWhileLoading`, & `alsoPrefetchToMemory` | `ACTIVE #2627` |
 | 🖼️ **Kingfisher (Swift Image)** | [`onevcat/Kingfisher#2618`](https://github.com/onevcat/Kingfisher/pull/2618) | Replayed cancellation on linked download task shells during async cache checks | `MERGED #2618` |
 | 🖼️ **Kingfisher (Prefetcher)** | [`onevcat/Kingfisher#2617`](https://github.com/onevcat/Kingfisher/pull/2617) | Forwarded `forcedExtension` in prefetcher cache type probes | `MERGED #2617` |
 | 🖼️ **Kingfisher (Docs & DocC)** | [`onevcat/Kingfisher#2616`](https://github.com/onevcat/Kingfisher/pull/2616) | Modernized async request modifier signatures and fixed DocC link resolution | `MERGED #2616` |
