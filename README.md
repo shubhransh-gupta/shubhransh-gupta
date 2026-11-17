@@ -179,11 +179,12 @@ Active open-source contributor solving core compiler, GPU runtime, image pipelin
 | 🛠️ **Tuist (Xcode Toolchain)** | [`tuist/tuist#15500`](https://github.com/tuist/tuist/pull/15500) | Handled empty warning headers & empty `simctl` JSON in CLI parser | `MERGED #15500` |
 | 🛠️ **Tuist (CLI Lifecycle)** | [`tuist/tuist#15568`](https://github.com/tuist/tuist/pull/15568) | Handled already-booted iOS simulators safely in `simctl boot` pipeline | `ACTIVE #15568` |
 | 🛠️ **Tuist (Auth Subsystem)** | [`tuist/tuist#15566`](https://github.com/tuist/tuist/pull/15566) | Extended `tuist auth whoami` to report active project and account tokens | `ACTIVE #15566` |
-| 🖼️ **Kingfisher (Swift Image)** | [`onevcat/Kingfisher#2618`](https://github.com/onevcat/Kingfisher/pull/2618) | Replayed cancellation on linked download task shells during async cache checks | `ACTIVE #2618` |
-| 🖼️ **Kingfisher (Prefetcher)** | [`onevcat/Kingfisher#2617`](https://github.com/onevcat/Kingfisher/pull/2617) | Forwarded `forcedExtension` in prefetcher cache type probes | `ACTIVE #2617` |
-| 🖼️ **Kingfisher (Docs & DocC)** | [`onevcat/Kingfisher#2616`](https://github.com/onevcat/Kingfisher/pull/2616) | Modernized async request modifier signatures and fixed DocC link resolution | `ACTIVE #2616` |
-| 🖼️ **Kingfisher (Fluent API)** | [`onevcat/Kingfisher#2614`](https://github.com/onevcat/Kingfisher/pull/2614) | Added fluent option builders for async cache & decoding options | `ACTIVE #2614` |
+| 🖼️ **Kingfisher (Swift Image)** | [`onevcat/Kingfisher#2618`](https://github.com/onevcat/Kingfisher/pull/2618) | Replayed cancellation on linked download task shells during async cache checks | `MERGED #2618` |
+| 🖼️ **Kingfisher (Prefetcher)** | [`onevcat/Kingfisher#2617`](https://github.com/onevcat/Kingfisher/pull/2617) | Forwarded `forcedExtension` in prefetcher cache type probes | `MERGED #2617` |
+| 🖼️ **Kingfisher (Docs & DocC)** | [`onevcat/Kingfisher#2616`](https://github.com/onevcat/Kingfisher/pull/2616) | Modernized async request modifier signatures and fixed DocC link resolution | `MERGED #2616` |
+| 🖼️ **Kingfisher (Fluent API)** | [`onevcat/Kingfisher#2614`](https://github.com/onevcat/Kingfisher/pull/2614) | Added fluent option builders for async cache & decoding options | `MERGED #2614` |
 | 🧩 **Bloc (Flutter State)** | [`felangel/bloc#4912`](https://github.com/felangel/bloc/pull/4912) | Implemented `prefer_multi_bloc_provider` lint rule for optimized widget nesting | `ACTIVE #4912` |
+| 🍎 **Apple Silicon / AI** | [`ml-explore/mlx-swift#481`](https://github.com/ml-explore/mlx-swift/pull/481) | Added Sendable closures & 3-parameter VJP support to `MLXCustomFunction` | `MERGED #481` |
 | 🍎 **Apple Silicon / AI** | [`ml-explore/mlx-swift#467`](https://github.com/ml-explore/mlx-swift/pull/467) | Fixed convolution padding bounds & memory bounds in Metal GPU kernels | `MERGED #467` |
 | 🍎 **Apple OpenAPI Runtime** | [`apple/swift-openapi-runtime#214`](https://github.com/apple/swift-openapi-runtime/pull/214) | Added validating mutating setters to dynamic OpenAPI value containers | `MERGED #214` |
 | 🍎 **Apple Swift Toolchain** | [`apple/swift-argument-parser#961`](https://github.com/apple/swift-argument-parser/pull/961) | Resolved core flag-parsing edge case for attached values (`--opt=`) in Swift CLI | `MERGED #961` |
@@ -191,6 +192,7 @@ Active open-source contributor solving core compiler, GPU runtime, image pipelin
 | 📡 **Prebid Mobile iOS** | [`prebid/prebid-mobile-ios#1395`](https://github.com/prebid/prebid-mobile-ios/pull/1395) | Populated `noAdsResponseURI` for VAST Error elements & optimized URLSession reuse | `MERGED #1395` |
 | 🖼️ **SDWebImage SwiftUI** | [`SDWebImage/SDWebImageSwiftUI#368`](https://github.com/SDWebImage/SDWebImageSwiftUI/pull/368) | Forwarded scale parameter in `WebImage` convenience initializers | `ACTIVE #368` |
 | 🌐 **Google Core Security** | [`google/osv-scanner#3049`](https://github.com/google/osv-scanner/pull/3049) | Fixed vulnerability report checklist filter state preservation in HTML output | `MERGED #3049` |
+| 🚀 **Fastlane Mobile Toolchain** | [`fastlane/fastlane#30268`](https://github.com/fastlane/fastlane/pull/30268) | Added `keychain_path` support & mutual conflict checking in `import_certificate` | `MERGED #30268` |
 | 🚀 **Fastlane Mobile Toolchain** | [`fastlane/fastlane#30169`](https://github.com/fastlane/fastlane/pull/30169) | Prevented duplicate prefix injection in `application-identifier` entitlements | `MERGED #30169` |
 
 <div align="center">
